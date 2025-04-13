@@ -13,13 +13,27 @@ export interface CardPreviewProps {
     subtitleColor: string;
     descriptionColor: string;
 
-    frameColor: string;
+    externalFrameColor: string;
+    internalFrameColor: string;
 
     imageUrl: string;
 }
 
 export default function CardPreview(props: CardPreviewProps) {
-    const { title, subtitle, description, titleColor, subtitleColor, descriptionColor, imageUrl, frameColor } = props;
+    const {
+        title,
+        subtitle,
+        description,
+
+        titleColor,
+        subtitleColor,
+        descriptionColor,
+
+        externalFrameColor,
+        internalFrameColor,
+
+        imageUrl
+    } = props;
 
     const cardRef = React.useRef(null);
     const [isCanShare, setIsCanShare] = React.useState(false);
@@ -81,44 +95,57 @@ export default function CardPreview(props: CardPreviewProps) {
                 maxWidth: "25rem",
                 minHeight: "37.5rem",
                 maxHeight: "37.5rem",
-                borderWidth: "32px",
-                borderColor: `#${frameColor}`,
+                borderWidth: "16px",
+                borderColor: `#${externalFrameColor}`,
                 borderStyle: "solid",
                 borderRadius: "64px",
                 display: "flex",
                 flexDirection: "column",
-                padding: "16px",
                 fontFamily: "Montserrat, sans-serif",
             }}>
-                <p style={{
-                    color: `#${titleColor}`,
-                    textAlign: "center",
-                    fontSize: 30,
-                    fontWeight: 800
-                }}>{title}</p>
-                {!!subtitle
-                    ? <p style={{
-                        color: `#${subtitleColor}`,
+                <div style={{
+                    margin: "0 auto",
+                    maxWidth: "24rem",
+                    minHeight: "35.5rem",
+                    maxHeight: "35.5rem",
+                    borderWidth: "16px",
+                    borderColor: `#${internalFrameColor}`,
+                    borderStyle: "solid",
+                    borderRadius: "48px",
+                    display: "flex",
+                    flexDirection: "column",
+                    padding: "16px",
+                }}>
+                    <p style={{
+                        color: `#${titleColor}`,
                         textAlign: "center",
-                        fontSize: 22,
-                        fontWeight: 600
-                    }} >{subtitle}</p>
-                    : null
-                }
-                <img
-                    crossOrigin="anonymous"
-                    style={{ maxWidth: 250, maxHeight: 250, margin: "auto" }}
-                    src={`${imageUrl}`}
-                />
-                {!!description
-                    ? <p style={{
-                        color: `#${descriptionColor}`,
-                        textAlign: "center",
-                        fontSize: 18,
-                        fontWeight: 500
-                    }}>{description}</p>
-                    : null
-                }
+                        fontSize: 30,
+                        fontWeight: 800
+                    }}>{title}</p>
+                    {!!subtitle
+                        ? <p style={{
+                            color: `#${subtitleColor}`,
+                            textAlign: "center",
+                            fontSize: 22,
+                            fontWeight: 600
+                        }} >{subtitle}</p>
+                        : null
+                    }
+                    <img
+                        crossOrigin="anonymous"
+                        style={{ maxWidth: 250, maxHeight: 250, margin: "auto" }}
+                        src={`${imageUrl}`}
+                    />
+                    {!!description
+                        ? <p style={{
+                            color: `#${descriptionColor}`,
+                            textAlign: "center",
+                            fontSize: 18,
+                            fontWeight: 500
+                        }}>{description}</p>
+                        : null
+                    }
+                </div>
             </div>
             <Button variant='contained' fullWidth startIcon={<Save />} onClick={downloadCard}>
                 {isCanShare ? "Share" : "Download"}

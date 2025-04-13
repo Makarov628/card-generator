@@ -18,7 +18,8 @@ export default function App() {
   const [subtitleColor, setSubtitleColor] = React.useState('24de55');
   const [descriptionColor, setDescriptionColor] = React.useState('000000');
 
-  const [frameColor, setFrameColor] = React.useState('cccccc');
+  const [externalFrameColor, setExternalFrameColor] = React.useState('ff00aa');
+  const [internalFrameColor, setInternalFrameColor] = React.useState('99ff99');
 
   const [imageSearch, setImageSearch] = React.useState('яблоко');
   const [imageUrl, setImageUrl] = React.useState('https://cdn-icons-png.flaticon.com/128/17414/17414134.png');
@@ -29,7 +30,7 @@ export default function App() {
         <Typography variant="h3" component="h4" fontWeight={600} sx={{ mb: 3 }}>
           Card Creator
         </Typography>
-        <Divider variant='fullWidth'/>
+        <Divider variant='fullWidth' />
       </Box>
       <Grid container style={{ marginTop: 32 }}>
         <Grid size={{ xs: 12, lg: 6 }} style={{ marginBottom: 32 }}>
@@ -42,7 +43,8 @@ export default function App() {
             subtitleColor={subtitleColor}
             descriptionColor={descriptionColor}
 
-            frameColor={frameColor}
+            externalFrameColor={externalFrameColor}
+            internalFrameColor={internalFrameColor}
 
             imageUrl={imageUrl}
           />
@@ -67,7 +69,13 @@ export default function App() {
             descriptionColor={descriptionColor}
             setDescriptionColor={(event) => setDescriptionColor(event.value as string)}
           />
-          <FrameOptions color={frameColor} setColor={(event) => setFrameColor(event.value as string)} />
+          <FrameOptions
+            externalColor={externalFrameColor}
+            setExternalColor={(event) => setExternalFrameColor(event.value as string)}
+
+            internalColor={internalFrameColor}
+            setInternalColor={(event) => setInternalFrameColor(event.value as string)}
+          />
           <ImageSearch
             search={imageSearch}
             setSearch={(e) => setImageSearch(e.target.value)}
