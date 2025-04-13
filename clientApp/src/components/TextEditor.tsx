@@ -51,18 +51,21 @@ export default function TextEditor(props: TextEditorProps) {
                 Text Editor
             </Typography>
             <Input
+                id="title-input"
                 label='Title'
                 onChange={(e) => setTitle(e.target.value)}
                 value={title}
                 color={titleColor}
                 setColor={setTitleColor}/>
             <Input
+                id="subtitle-input"
                 label='Subtitle'
                 onChange={(e) => setSubtitle(e.target.value)}
                 value={subtitle}
                 color={subtitleColor}
                 setColor={setSubtitleColor}/>
             <Input
+                id="description-input"
                 label='Description'
                 onChange={(e) => setDescription(e.target.value)}
                 value={description}

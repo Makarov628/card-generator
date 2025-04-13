@@ -1,15 +1,16 @@
 import * as React from 'react';
 import { ColorPicker, ColorPickerChangeEvent } from 'primereact/colorpicker';
-import { Box, Card, Grid, Typography } from '@mui/material';
+import { Box, Card, Grid, TextField, Typography } from '@mui/material';
 import "./ColorPickerElement.css";
 import ColorPickerElement from './ColorPickerElement';
+import Input from './Input';
 
 export interface FrameOptionsProps {
     externalColor: string;
-    setExternalColor: (event: ColorPickerChangeEvent) => void;
+    setExternalColor: (color: string) => void;
 
     internalColor: string;
-    setInternalColor: (event: ColorPickerChangeEvent) => void;
+    setInternalColor: (color: string) => void;
 }
 
 export default function FrameOptions(props: FrameOptionsProps) {
@@ -28,14 +29,30 @@ export default function FrameOptions(props: FrameOptionsProps) {
             <Grid container>
                 <Grid size={{ xs: 6 }}>
                     <Box display="flex" flexDirection="row" style={{ alignItems: 'center' }} gap={1}>
-                        <ColorPickerElement color={externalColor} setColor={setExternalColor} />
-                        <Typography>External Frame Color</Typography>
+                        <ColorPickerElement color={externalColor} setColor={(event) => setExternalColor(event.value as string)} />
+                        <TextField
+                            id={"external-frame-color-input"}
+                            label={"External Frame Color"}
+                            value={externalColor}
+                            onChange={(e) => setExternalColor(e.target.value)}
+                            variant="outlined"
+                            fullWidth
+                            style={{ maxWidth: 150 }}
+                        />
                     </Box>
                 </Grid>
                 <Grid size={{ xs: 6 }}>
                     <Box display="flex" flexDirection="row" style={{ alignItems: 'center' }} gap={1}>
-                        <ColorPickerElement color={internalColor} setColor={setInternalColor} />
-                        <Typography>Internal Frame Color</Typography>
+                        <ColorPickerElement color={internalColor} setColor={(event) => setInternalColor(event.value as string)} />
+                        <TextField
+                            id={"internal-frame-color-input"}
+                            label={"Internal Frame Color"}
+                            value={internalColor}
+                            onChange={(e) => setInternalColor(e.target.value)}
+                            variant="outlined"
+                            fullWidth
+                            style={{ maxWidth: 150 }}
+                        />
                     </Box>
                 </Grid>
             </Grid>

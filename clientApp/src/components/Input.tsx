@@ -5,6 +5,7 @@ import { ColorPickerChangeEvent } from 'primereact/colorpicker';
 import ColorPickerElement from './ColorPickerElement';
 
 export interface InputProps {
+    id: string;
     label: string;
     value: string;
     onChange: (event: React.ChangeEvent<HTMLInputElement>) => void;
@@ -16,11 +17,12 @@ export interface InputProps {
 
 
 function Input(props: InputProps) {
-    const { label, value, onChange, multiline, color, setColor } = props;
+    const { id, label, value, onChange, multiline, color, setColor } = props;
     return (
         <Box display="flex" flexDirection="row" gap={1}>
             <ColorPickerElement color={color} setColor={setColor}/>
             <TextField
+                id={id}
                 label={label}
                 value={value}
                 onChange={onChange}

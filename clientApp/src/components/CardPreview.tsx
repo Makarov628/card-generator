@@ -147,7 +147,7 @@ export default function CardPreview(props: CardPreviewProps) {
                     }
                 </div>
             </div>
-            <Button variant='contained' fullWidth startIcon={<Save />} onClick={downloadCard}>
+            <Button id="save-button" variant='contained' fullWidth startIcon={<Save />} onClick={downloadCard}>
                 {isCanShare ? "Share" : "Download"}
             </Button>
         </Box>

@@ -53,17 +53,19 @@ export default function ImageSearch(props: ImageSearchProps) {
             </Typography>
             <Box display="flex" flexDirection="row" gap={1}>
                 <TextField
+                    id={'search-input'}
                     label={'Search'}
                     value={search}
                     onChange={setSearch}
                     fullWidth
                     onKeyDown={handleKeyDown}
                 />
-                <Button variant="contained" onClick={() => { fetchImages(search) }}>
+                <Button id="search-button" variant="contained" onClick={() => { fetchImages(search) }}>
                     Search
                 </Button>
             </Box>
             <ImageList
+                id="image-list"
                 variant='standard'
                 cols={6}
                 style={{
@@ -74,8 +76,9 @@ export default function ImageSearch(props: ImageSearchProps) {
                     padding: "8px"
                 }}
                 gap={8}>
-                {images.map((url) => (
+                {images.map((url, index) => (
                     <ImageListItem
+                        id={`image-${index + 1}`}
                         key={url}
                         onClick={() => setSelectedImage(url)}
                         sx={{
