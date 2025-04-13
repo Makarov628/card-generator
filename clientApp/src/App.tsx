@@ -8,21 +8,74 @@ import CardPreview from './components/CardPreview';
 import Grid from '@mui/material/Grid';
 import FrameOptions from './components/FrameOptions';
 import { Divider } from '@mui/material';
+import { getFromLocalStorage, writeToLocalStorage } from './data/localStorage'
 
 export default function App() {
-  const [title, setTitle] = React.useState('APPLE');
-  const [subtitle, setSubtitle] = React.useState('ЯБЛОКО');
-  const [description, setDescription] = React.useState('Eating an apple a day keeps the doctor away');
+  const TITLE_KEY = 'title';
+  const SUBTITLE_KEY = 'subtitle';
+  const DESCRIPTION_KEY = 'description';
 
-  const [titleColor, setTitleColor] = React.useState('db1b51');
-  const [subtitleColor, setSubtitleColor] = React.useState('24de55');
-  const [descriptionColor, setDescriptionColor] = React.useState('000000');
+  const TITLE_COLOR_KEY = 'titleColor';
+  const SUBTITLE_COLOR_KEY = 'subtitleColor';
+  const DESCRIPTION_COLOR_KEY = 'descriptionColor';
 
-  const [externalFrameColor, setExternalFrameColor] = React.useState('ff00aa');
-  const [internalFrameColor, setInternalFrameColor] = React.useState('99ff99');
+  const EXTERNAL_FRAME_COLOR_KEY = 'externalFrameColor';
+  const INTERNAL_FRAME_COLOR_KEY = 'internalFrameColor';
 
-  const [imageSearch, setImageSearch] = React.useState('яблоко');
-  const [imageUrl, setImageUrl] = React.useState('https://cdn-icons-png.flaticon.com/128/17414/17414134.png');
+  const IMAGE_SEARCH_KEY = 'imageSearch';
+  const IMAGE_URL_KEY = 'imageUrl';
+
+  const default_title = getFromLocalStorage<string>(TITLE_KEY) ?? 'APPLE';
+  const default_subtitle = getFromLocalStorage<string>(SUBTITLE_KEY) ?? 'ЯБЛОКО';
+  const default_description = getFromLocalStorage<string>(DESCRIPTION_KEY) ?? 'Eating an apple a day keeps the doctor away';
+
+  const default_titleColor = getFromLocalStorage<string>(TITLE_COLOR_KEY) ?? 'db1b51';
+  const default_subtitleColor = getFromLocalStorage<string>(SUBTITLE_COLOR_KEY) ?? '24de55';
+  const default_descriptionColor = getFromLocalStorage<string>(DESCRIPTION_COLOR_KEY) ?? '000000';
+
+  const default_externalFrameColor = getFromLocalStorage<string>(EXTERNAL_FRAME_COLOR_KEY) ?? 'ff00aa';
+  const default_internalFrameColor = getFromLocalStorage<string>(INTERNAL_FRAME_COLOR_KEY) ?? '99ff99';
+
+  const default_imageSearch = getFromLocalStorage<string>(IMAGE_SEARCH_KEY) ?? 'яблоко';
+  const default_imageUrl = getFromLocalStorage<string>(IMAGE_URL_KEY) ?? 'https://cdn-icons-png.flaticon.com/128/17414/17414134.png';
+
+  const [title, setTitle] = React.useState(default_title);
+  const [subtitle, setSubtitle] = React.useState(default_subtitle);
+  const [description, setDescription] = React.useState(default_description);
+
+  const [titleColor, setTitleColor] = React.useState(default_titleColor);
+  const [subtitleColor, setSubtitleColor] = React.useState(default_subtitleColor);
+  const [descriptionColor, setDescriptionColor] = React.useState(default_descriptionColor);
+
+  const [externalFrameColor, setExternalFrameColor] = React.useState(default_externalFrameColor);
+  const [internalFrameColor, setInternalFrameColor] = React.useState(default_internalFrameColor);
+
+  const [imageSearch, setImageSearch] = React.useState(default_imageSearch);
+  const [imageUrl, setImageUrl] = React.useState(default_imageUrl);
+
+  React.useEffect(() => {
+    writeToLocalStorage<string>(TITLE_KEY, title)
+    writeToLocalStorage<string>(SUBTITLE_KEY, subtitle)
+    writeToLocalStorage<string>(DESCRIPTION_KEY, description)
+    writeToLocalStorage<string>(TITLE_COLOR_KEY, titleColor)
+    writeToLocalStorage<string>(SUBTITLE_COLOR_KEY, subtitleColor)
+    writeToLocalStorage<string>(DESCRIPTION_COLOR_KEY, descriptionColor)
+    writeToLocalStorage<string>(EXTERNAL_FRAME_COLOR_KEY, externalFrameColor)
+    writeToLocalStorage<string>(INTERNAL_FRAME_COLOR_KEY, internalFrameColor)
+    writeToLocalStorage<string>(IMAGE_SEARCH_KEY, imageSearch)
+    writeToLocalStorage<string>(IMAGE_URL_KEY, imageUrl)
+  }, [
+    title,
+    subtitle,
+    description,
+    titleColor,
+    subtitleColor,
+    descriptionColor,
+    externalFrameColor,
+    internalFrameColor,
+    imageSearch,
+    imageUrl
+  ])
 
   return (
     <Container maxWidth="lg">
@@ -79,6 +132,7 @@ export default function App() {
           <ImageSearch
             search={imageSearch}
             setSearch={(e) => setImageSearch(e.target.value)}
+            selectedImageUrl={imageUrl}
             onImageSelected={setImageUrl}
           />
         </Grid>

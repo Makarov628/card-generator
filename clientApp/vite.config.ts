@@ -8,7 +8,7 @@ export default defineConfig({
   plugins: [react()],
   server: {
     host: '0.0.0.0',
-    port: 5131,
+    port: 4000,
     https: false,
     // https: {
     //   key: fs.readFileSync(path.resolve(__dirname, '192.168.100.96-key.pem')),

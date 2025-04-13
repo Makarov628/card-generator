@@ -9,13 +9,15 @@ export interface ImageSearchProps {
     search: string;
     setSearch: (event: React.ChangeEvent<HTMLInputElement>) => void;
     onImageSelected: (url: string) => void;
+
+    selectedImageUrl: string;
 }
 
 export default function ImageSearch(props: ImageSearchProps) {
-    const { search, setSearch, onImageSelected } = props;
+    const { search, setSearch, onImageSelected, selectedImageUrl } = props;
 
-    const [images, setImages] = React.useState<string[]>(["https://cdn-icons-png.flaticon.com/128/415/415733.png"]);
-    const [selectedImage, setSelectedImage] = React.useState<string | null>("https://cdn-icons-png.flaticon.com/128/415/415733.png");
+    const [images, setImages] = React.useState<string[]>([selectedImageUrl]);
+    const [selectedImage, setSelectedImage] = React.useState<string | null>(selectedImageUrl);
 
     const handleKeyDown = (event: React.KeyboardEvent<HTMLInputElement>) => {
         if (event.key === 'Enter') {

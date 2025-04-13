@@ -14,7 +14,7 @@ app.get('/api/icons/search', async (req, res) => {
 
     getIconsUrl(query)
         .then(urls => { res.json(urls); })
-        .catch(error => { res.status(500).json(error.message); });
+        .catch(error => { console.log(error); res.json([]); });
 });
 
 app.get('/{*splat}', (_, res) => {
