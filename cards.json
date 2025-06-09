@@ -1,0 +1,2738 @@
+{
+  "1.1": {
+    "auditory": {
+      "1748018384433_card.png": {
+        "path": "/cards/1.1/auditory/1748018384433_card.png",
+        "name": "1748018384433_card.png"
+      },
+      "1748018386564_card.png": {
+        "path": "/cards/1.1/auditory/1748018386564_card.png",
+        "name": "1748018386564_card.png"
+      },
+      "1748018388553_card.png": {
+        "path": "/cards/1.1/auditory/1748018388553_card.png",
+        "name": "1748018388553_card.png"
+      },
+      "1748018390971_card.png": {
+        "path": "/cards/1.1/auditory/1748018390971_card.png",
+        "name": "1748018390971_card.png"
+      },
+      "1748018393053_card.png": {
+        "path": "/cards/1.1/auditory/1748018393053_card.png",
+        "name": "1748018393053_card.png"
+      },
+      "1748018395559_card.png": {
+        "path": "/cards/1.1/auditory/1748018395559_card.png",
+        "name": "1748018395559_card.png"
+      },
+      "1748018397914_card.png": {
+        "path": "/cards/1.1/auditory/1748018397914_card.png",
+        "name": "1748018397914_card.png"
+      },
+      "1748018400151_card.png": {
+        "path": "/cards/1.1/auditory/1748018400151_card.png",
+        "name": "1748018400151_card.png"
+      },
+      "1748018402403_card.png": {
+        "path": "/cards/1.1/auditory/1748018402403_card.png",
+        "name": "1748018402403_card.png"
+      },
+      "1748018404551_card.png": {
+        "path": "/cards/1.1/auditory/1748018404551_card.png",
+        "name": "1748018404551_card.png"
+      },
+      "1748018406726_card.png": {
+        "path": "/cards/1.1/auditory/1748018406726_card.png",
+        "name": "1748018406726_card.png"
+      },
+      "1748018408796_card.png": {
+        "path": "/cards/1.1/auditory/1748018408796_card.png",
+        "name": "1748018408796_card.png"
+      },
+      "1748018411201_card.png": {
+        "path": "/cards/1.1/auditory/1748018411201_card.png",
+        "name": "1748018411201_card.png"
+      },
+      "1748018413880_card.png": {
+        "path": "/cards/1.1/auditory/1748018413880_card.png",
+        "name": "1748018413880_card.png"
+      },
+      "1748018416263_card.png": {
+        "path": "/cards/1.1/auditory/1748018416263_card.png",
+        "name": "1748018416263_card.png"
+      }
+    },
+    "extroverted": {
+      "1748018499572_card.png": {
+        "path": "/cards/1.1/extroverted/1748018499572_card.png",
+        "name": "1748018499572_card.png"
+      },
+      "1748018502158_card.png": {
+        "path": "/cards/1.1/extroverted/1748018502158_card.png",
+        "name": "1748018502158_card.png"
+      },
+      "1748018504630_card.png": {
+        "path": "/cards/1.1/extroverted/1748018504630_card.png",
+        "name": "1748018504630_card.png"
+      },
+      "1748018507331_card.png": {
+        "path": "/cards/1.1/extroverted/1748018507331_card.png",
+        "name": "1748018507331_card.png"
+      },
+      "1748018510008_card.png": {
+        "path": "/cards/1.1/extroverted/1748018510008_card.png",
+        "name": "1748018510008_card.png"
+      },
+      "1748018512298_card.png": {
+        "path": "/cards/1.1/extroverted/1748018512298_card.png",
+        "name": "1748018512298_card.png"
+      },
+      "1748018514682_card.png": {
+        "path": "/cards/1.1/extroverted/1748018514682_card.png",
+        "name": "1748018514682_card.png"
+      },
+      "1748018516991_card.png": {
+        "path": "/cards/1.1/extroverted/1748018516991_card.png",
+        "name": "1748018516991_card.png"
+      },
+      "1748018519376_card.png": {
+        "path": "/cards/1.1/extroverted/1748018519376_card.png",
+        "name": "1748018519376_card.png"
+      },
+      "1748018521568_card.png": {
+        "path": "/cards/1.1/extroverted/1748018521568_card.png",
+        "name": "1748018521568_card.png"
+      },
+      "1748018523867_card.png": {
+        "path": "/cards/1.1/extroverted/1748018523867_card.png",
+        "name": "1748018523867_card.png"
+      },
+      "1748018526295_card.png": {
+        "path": "/cards/1.1/extroverted/1748018526295_card.png",
+        "name": "1748018526295_card.png"
+      },
+      "1748018528730_card.png": {
+        "path": "/cards/1.1/extroverted/1748018528730_card.png",
+        "name": "1748018528730_card.png"
+      },
+      "1748018531907_card.png": {
+        "path": "/cards/1.1/extroverted/1748018531907_card.png",
+        "name": "1748018531907_card.png"
+      },
+      "1748018534695_card.png": {
+        "path": "/cards/1.1/extroverted/1748018534695_card.png",
+        "name": "1748018534695_card.png"
+      }
+    },
+    "introverted": {
+      "1748018460924_card.png": {
+        "path": "/cards/1.1/introverted/1748018460924_card.png",
+        "name": "1748018460924_card.png"
+      },
+      "1748018466786_card.png": {
+        "path": "/cards/1.1/introverted/1748018466786_card.png",
+        "name": "1748018466786_card.png"
+      },
+      "1748018469423_card.png": {
+        "path": "/cards/1.1/introverted/1748018469423_card.png",
+        "name": "1748018469423_card.png"
+      },
+      "1748018472498_card.png": {
+        "path": "/cards/1.1/introverted/1748018472498_card.png",
+        "name": "1748018472498_card.png"
+      },
+      "1748018474921_card.png": {
+        "path": "/cards/1.1/introverted/1748018474921_card.png",
+        "name": "1748018474921_card.png"
+      },
+      "1748018477107_card.png": {
+        "path": "/cards/1.1/introverted/1748018477107_card.png",
+        "name": "1748018477107_card.png"
+      },
+      "1748018479359_card.png": {
+        "path": "/cards/1.1/introverted/1748018479359_card.png",
+        "name": "1748018479359_card.png"
+      },
+      "1748018481825_card.png": {
+        "path": "/cards/1.1/introverted/1748018481825_card.png",
+        "name": "1748018481825_card.png"
+      },
+      "1748018484129_card.png": {
+        "path": "/cards/1.1/introverted/1748018484129_card.png",
+        "name": "1748018484129_card.png"
+      },
+      "1748018486556_card.png": {
+        "path": "/cards/1.1/introverted/1748018486556_card.png",
+        "name": "1748018486556_card.png"
+      },
+      "1748018492037_card.png": {
+        "path": "/cards/1.1/introverted/1748018492037_card.png",
+        "name": "1748018492037_card.png"
+      },
+      "1748018494247_card.png": {
+        "path": "/cards/1.1/introverted/1748018494247_card.png",
+        "name": "1748018494247_card.png"
+      },
+      "1748018496915_card.png": {
+        "path": "/cards/1.1/introverted/1748018496915_card.png",
+        "name": "1748018496915_card.png"
+      }
+    },
+    "kinestetic": {
+      "1748018419197_card.png": {
+        "path": "/cards/1.1/kinestetic/1748018419197_card.png",
+        "name": "1748018419197_card.png"
+      },
+      "1748018421791_card.png": {
+        "path": "/cards/1.1/kinestetic/1748018421791_card.png",
+        "name": "1748018421791_card.png"
+      },
+      "1748018424501_card.png": {
+        "path": "/cards/1.1/kinestetic/1748018424501_card.png",
+        "name": "1748018424501_card.png"
+      },
+      "1748018427423_card.png": {
+        "path": "/cards/1.1/kinestetic/1748018427423_card.png",
+        "name": "1748018427423_card.png"
+      },
+      "1748018430232_card.png": {
+        "path": "/cards/1.1/kinestetic/1748018430232_card.png",
+        "name": "1748018430232_card.png"
+      },
+      "1748018432535_card.png": {
+        "path": "/cards/1.1/kinestetic/1748018432535_card.png",
+        "name": "1748018432535_card.png"
+      },
+      "1748018435009_card.png": {
+        "path": "/cards/1.1/kinestetic/1748018435009_card.png",
+        "name": "1748018435009_card.png"
+      },
+      "1748018437469_card.png": {
+        "path": "/cards/1.1/kinestetic/1748018437469_card.png",
+        "name": "1748018437469_card.png"
+      },
+      "1748018440028_card.png": {
+        "path": "/cards/1.1/kinestetic/1748018440028_card.png",
+        "name": "1748018440028_card.png"
+      },
+      "1748018442910_card.png": {
+        "path": "/cards/1.1/kinestetic/1748018442910_card.png",
+        "name": "1748018442910_card.png"
+      },
+      "1748018446401_card.png": {
+        "path": "/cards/1.1/kinestetic/1748018446401_card.png",
+        "name": "1748018446401_card.png"
+      },
+      "1748018449280_card.png": {
+        "path": "/cards/1.1/kinestetic/1748018449280_card.png",
+        "name": "1748018449280_card.png"
+      },
+      "1748018452161_card.png": {
+        "path": "/cards/1.1/kinestetic/1748018452161_card.png",
+        "name": "1748018452161_card.png"
+      },
+      "1748018454900_card.png": {
+        "path": "/cards/1.1/kinestetic/1748018454900_card.png",
+        "name": "1748018454900_card.png"
+      },
+      "1748018457717_card.png": {
+        "path": "/cards/1.1/kinestetic/1748018457717_card.png",
+        "name": "1748018457717_card.png"
+      }
+    },
+    "visual": {
+      "1748018344587_card.png": {
+        "path": "/cards/1.1/visual/1748018344587_card.png",
+        "name": "1748018344587_card.png"
+      },
+      "1748018347011_card.png": {
+        "path": "/cards/1.1/visual/1748018347011_card.png",
+        "name": "1748018347011_card.png"
+      },
+      "1748018350007_card.png": {
+        "path": "/cards/1.1/visual/1748018350007_card.png",
+        "name": "1748018350007_card.png"
+      },
+      "1748018354106_card.png": {
+        "path": "/cards/1.1/visual/1748018354106_card.png",
+        "name": "1748018354106_card.png"
+      },
+      "1748018360956_card.png": {
+        "path": "/cards/1.1/visual/1748018360956_card.png",
+        "name": "1748018360956_card.png"
+      },
+      "1748018363555_card.png": {
+        "path": "/cards/1.1/visual/1748018363555_card.png",
+        "name": "1748018363555_card.png"
+      },
+      "1748018365929_card.png": {
+        "path": "/cards/1.1/visual/1748018365929_card.png",
+        "name": "1748018365929_card.png"
+      },
+      "1748018368311_card.png": {
+        "path": "/cards/1.1/visual/1748018368311_card.png",
+        "name": "1748018368311_card.png"
+      },
+      "1748018370407_card.png": {
+        "path": "/cards/1.1/visual/1748018370407_card.png",
+        "name": "1748018370407_card.png"
+      },
+      "1748018372616_card.png": {
+        "path": "/cards/1.1/visual/1748018372616_card.png",
+        "name": "1748018372616_card.png"
+      },
+      "1748018375211_card.png": {
+        "path": "/cards/1.1/visual/1748018375211_card.png",
+        "name": "1748018375211_card.png"
+      },
+      "1748018377862_card.png": {
+        "path": "/cards/1.1/visual/1748018377862_card.png",
+        "name": "1748018377862_card.png"
+      },
+      "1748018379972_card.png": {
+        "path": "/cards/1.1/visual/1748018379972_card.png",
+        "name": "1748018379972_card.png"
+      },
+      "1748018382293_card.png": {
+        "path": "/cards/1.1/visual/1748018382293_card.png",
+        "name": "1748018382293_card.png"
+      }
+    }
+  },
+  "1.2": {
+    "auditory": {
+      "1748019073745_card.png": {
+        "path": "/cards/1.2/auditory/1748019073745_card.png",
+        "name": "1748019073745_card.png"
+      },
+      "1748019076334_card.png": {
+        "path": "/cards/1.2/auditory/1748019076334_card.png",
+        "name": "1748019076334_card.png"
+      },
+      "1748019079395_card.png": {
+        "path": "/cards/1.2/auditory/1748019079395_card.png",
+        "name": "1748019079395_card.png"
+      },
+      "1748019081710_card.png": {
+        "path": "/cards/1.2/auditory/1748019081710_card.png",
+        "name": "1748019081710_card.png"
+      }
+    },
+    "extroverted": {
+      "1748019123097_card.png": {
+        "path": "/cards/1.2/extroverted/1748019123097_card.png",
+        "name": "1748019123097_card.png"
+      },
+      "1748019126132_card.png": {
+        "path": "/cards/1.2/extroverted/1748019126132_card.png",
+        "name": "1748019126132_card.png"
+      },
+      "1748019129002_card.png": {
+        "path": "/cards/1.2/extroverted/1748019129002_card.png",
+        "name": "1748019129002_card.png"
+      },
+      "1748019131727_card.png": {
+        "path": "/cards/1.2/extroverted/1748019131727_card.png",
+        "name": "1748019131727_card.png"
+      },
+      "1748019134703_card.png": {
+        "path": "/cards/1.2/extroverted/1748019134703_card.png",
+        "name": "1748019134703_card.png"
+      }
+    },
+    "introverted": {
+      "1748019109420_card.png": {
+        "path": "/cards/1.2/introverted/1748019109420_card.png",
+        "name": "1748019109420_card.png"
+      },
+      "1748019112084_card.png": {
+        "path": "/cards/1.2/introverted/1748019112084_card.png",
+        "name": "1748019112084_card.png"
+      },
+      "1748019117297_card.png": {
+        "path": "/cards/1.2/introverted/1748019117297_card.png",
+        "name": "1748019117297_card.png"
+      },
+      "1748019119757_card.png": {
+        "path": "/cards/1.2/introverted/1748019119757_card.png",
+        "name": "1748019119757_card.png"
+      }
+    },
+    "kinestetic": {
+      "1748019096794_card.png": {
+        "path": "/cards/1.2/kinestetic/1748019096794_card.png",
+        "name": "1748019096794_card.png"
+      },
+      "1748019099861_card.png": {
+        "path": "/cards/1.2/kinestetic/1748019099861_card.png",
+        "name": "1748019099861_card.png"
+      },
+      "1748019102480_card.png": {
+        "path": "/cards/1.2/kinestetic/1748019102480_card.png",
+        "name": "1748019102480_card.png"
+      },
+      "1748019104878_card.png": {
+        "path": "/cards/1.2/kinestetic/1748019104878_card.png",
+        "name": "1748019104878_card.png"
+      },
+      "1748019107036_card.png": {
+        "path": "/cards/1.2/kinestetic/1748019107036_card.png",
+        "name": "1748019107036_card.png"
+      }
+    },
+    "visual": {
+      "1748019060406_card.png": {
+        "path": "/cards/1.2/visual/1748019060406_card.png",
+        "name": "1748019060406_card.png"
+      },
+      "1748019063148_card.png": {
+        "path": "/cards/1.2/visual/1748019063148_card.png",
+        "name": "1748019063148_card.png"
+      },
+      "1748019066141_card.png": {
+        "path": "/cards/1.2/visual/1748019066141_card.png",
+        "name": "1748019066141_card.png"
+      },
+      "1748019068626_card.png": {
+        "path": "/cards/1.2/visual/1748019068626_card.png",
+        "name": "1748019068626_card.png"
+      }
+    }
+  },
+  "10.1": {
+    "auditory": {
+      "1748023048244_card.png": {
+        "path": "/cards/10.1/auditory/1748023048244_card.png",
+        "name": "1748023048244_card.png"
+      },
+      "1748023050604_card.png": {
+        "path": "/cards/10.1/auditory/1748023050604_card.png",
+        "name": "1748023050604_card.png"
+      },
+      "1748023053295_card.png": {
+        "path": "/cards/10.1/auditory/1748023053295_card.png",
+        "name": "1748023053295_card.png"
+      },
+      "1748023055579_card.png": {
+        "path": "/cards/10.1/auditory/1748023055579_card.png",
+        "name": "1748023055579_card.png"
+      },
+      "1748023058208_card.png": {
+        "path": "/cards/10.1/auditory/1748023058208_card.png",
+        "name": "1748023058208_card.png"
+      }
+    },
+    "extroverted": {
+      "1748023092534_card.png": {
+        "path": "/cards/10.1/extroverted/1748023092534_card.png",
+        "name": "1748023092534_card.png"
+      },
+      "1748023094783_card.png": {
+        "path": "/cards/10.1/extroverted/1748023094783_card.png",
+        "name": "1748023094783_card.png"
+      },
+      "1748023097500_card.png": {
+        "path": "/cards/10.1/extroverted/1748023097500_card.png",
+        "name": "1748023097500_card.png"
+      },
+      "1748023101531_card.png": {
+        "path": "/cards/10.1/extroverted/1748023101531_card.png",
+        "name": "1748023101531_card.png"
+      },
+      "1748023104954_card.png": {
+        "path": "/cards/10.1/extroverted/1748023104954_card.png",
+        "name": "1748023104954_card.png"
+      }
+    },
+    "introverted": {
+      "10.1-correct-the-error.png": {
+        "path": "/cards/10.1/introverted/10.1-correct-the-error.png",
+        "name": "10.1-correct-the-error.png"
+      },
+      "1748023073772_card.png": {
+        "path": "/cards/10.1/introverted/1748023073772_card.png",
+        "name": "1748023073772_card.png"
+      },
+      "1748023076316_card.png": {
+        "path": "/cards/10.1/introverted/1748023076316_card.png",
+        "name": "1748023076316_card.png"
+      },
+      "1748023087456_card.png": {
+        "path": "/cards/10.1/introverted/1748023087456_card.png",
+        "name": "1748023087456_card.png"
+      }
+    },
+    "kinestetic": {
+      "1748023060692_card.png": {
+        "path": "/cards/10.1/kinestetic/1748023060692_card.png",
+        "name": "1748023060692_card.png"
+      },
+      "1748023063341_card.png": {
+        "path": "/cards/10.1/kinestetic/1748023063341_card.png",
+        "name": "1748023063341_card.png"
+      },
+      "1748023065636_card.png": {
+        "path": "/cards/10.1/kinestetic/1748023065636_card.png",
+        "name": "1748023065636_card.png"
+      },
+      "1748023068779_card.png": {
+        "path": "/cards/10.1/kinestetic/1748023068779_card.png",
+        "name": "1748023068779_card.png"
+      },
+      "1748023071237_card.png": {
+        "path": "/cards/10.1/kinestetic/1748023071237_card.png",
+        "name": "1748023071237_card.png"
+      }
+    },
+    "visual": {
+      "1748023039912_card.png": {
+        "path": "/cards/10.1/visual/1748023039912_card.png",
+        "name": "1748023039912_card.png"
+      },
+      "1748023042571_card.png": {
+        "path": "/cards/10.1/visual/1748023042571_card.png",
+        "name": "1748023042571_card.png"
+      },
+      "1748023045360_card.png": {
+        "path": "/cards/10.1/visual/1748023045360_card.png",
+        "name": "1748023045360_card.png"
+      }
+    }
+  },
+  "10.2": {
+    "auditory": {
+      "1748023366128_card.png": {
+        "path": "/cards/10.2/auditory/1748023366128_card.png",
+        "name": "1748023366128_card.png"
+      },
+      "1748023368459_card.png": {
+        "path": "/cards/10.2/auditory/1748023368459_card.png",
+        "name": "1748023368459_card.png"
+      },
+      "1748023370731_card.png": {
+        "path": "/cards/10.2/auditory/1748023370731_card.png",
+        "name": "1748023370731_card.png"
+      },
+      "1748023373449_card.png": {
+        "path": "/cards/10.2/auditory/1748023373449_card.png",
+        "name": "1748023373449_card.png"
+      }
+    },
+    "extroverted": {
+      "1748023399341_card.png": {
+        "path": "/cards/10.2/extroverted/1748023399341_card.png",
+        "name": "1748023399341_card.png"
+      },
+      "1748023401642_card.png": {
+        "path": "/cards/10.2/extroverted/1748023401642_card.png",
+        "name": "1748023401642_card.png"
+      },
+      "1748023404655_card.png": {
+        "path": "/cards/10.2/extroverted/1748023404655_card.png",
+        "name": "1748023404655_card.png"
+      },
+      "1748023407006_card.png": {
+        "path": "/cards/10.2/extroverted/1748023407006_card.png",
+        "name": "1748023407006_card.png"
+      },
+      "1748023409437_card.png": {
+        "path": "/cards/10.2/extroverted/1748023409437_card.png",
+        "name": "1748023409437_card.png"
+      }
+    },
+    "introverted": {
+      "1748023388193_card.png": {
+        "path": "/cards/10.2/introverted/1748023388193_card.png",
+        "name": "1748023388193_card.png"
+      },
+      "1748023390391_card.png": {
+        "path": "/cards/10.2/introverted/1748023390391_card.png",
+        "name": "1748023390391_card.png"
+      },
+      "1748023394687_card.png": {
+        "path": "/cards/10.2/introverted/1748023394687_card.png",
+        "name": "1748023394687_card.png"
+      },
+      "1748023396696_card.png": {
+        "path": "/cards/10.2/introverted/1748023396696_card.png",
+        "name": "1748023396696_card.png"
+      }
+    },
+    "kinestetic": {
+      "1748023376289_card.png": {
+        "path": "/cards/10.2/kinestetic/1748023376289_card.png",
+        "name": "1748023376289_card.png"
+      },
+      "1748023378566_card.png": {
+        "path": "/cards/10.2/kinestetic/1748023378566_card.png",
+        "name": "1748023378566_card.png"
+      },
+      "1748023380883_card.png": {
+        "path": "/cards/10.2/kinestetic/1748023380883_card.png",
+        "name": "1748023380883_card.png"
+      },
+      "1748023383486_card.png": {
+        "path": "/cards/10.2/kinestetic/1748023383486_card.png",
+        "name": "1748023383486_card.png"
+      },
+      "1748023385842_card.png": {
+        "path": "/cards/10.2/kinestetic/1748023385842_card.png",
+        "name": "1748023385842_card.png"
+      }
+    },
+    "visual": {
+      "1748023348539_card.png": {
+        "path": "/cards/10.2/visual/1748023348539_card.png",
+        "name": "1748023348539_card.png"
+      },
+      "1748023351058_card.png": {
+        "path": "/cards/10.2/visual/1748023351058_card.png",
+        "name": "1748023351058_card.png"
+      },
+      "1748023353449_card.png": {
+        "path": "/cards/10.2/visual/1748023353449_card.png",
+        "name": "1748023353449_card.png"
+      },
+      "1748023355891_card.png": {
+        "path": "/cards/10.2/visual/1748023355891_card.png",
+        "name": "1748023355891_card.png"
+      }
+    }
+  },
+  "11.1": {
+    "auditory": {
+      "1748023519959_card.png": {
+        "path": "/cards/11.1/auditory/1748023519959_card.png",
+        "name": "1748023519959_card.png"
+      },
+      "1748023522947_card.png": {
+        "path": "/cards/11.1/auditory/1748023522947_card.png",
+        "name": "1748023522947_card.png"
+      },
+      "1748023525303_card.png": {
+        "path": "/cards/11.1/auditory/1748023525303_card.png",
+        "name": "1748023525303_card.png"
+      },
+      "1748023529062_card.png": {
+        "path": "/cards/11.1/auditory/1748023529062_card.png",
+        "name": "1748023529062_card.png"
+      },
+      "1748023531380_card.png": {
+        "path": "/cards/11.1/auditory/1748023531380_card.png",
+        "name": "1748023531380_card.png"
+      }
+    },
+    "extroverted": {
+      "1748023559279_card.png": {
+        "path": "/cards/11.1/extroverted/1748023559279_card.png",
+        "name": "1748023559279_card.png"
+      },
+      "1748023562107_card.png": {
+        "path": "/cards/11.1/extroverted/1748023562107_card.png",
+        "name": "1748023562107_card.png"
+      },
+      "1748023564983_card.png": {
+        "path": "/cards/11.1/extroverted/1748023564983_card.png",
+        "name": "1748023564983_card.png"
+      },
+      "1748023567784_card.png": {
+        "path": "/cards/11.1/extroverted/1748023567784_card.png",
+        "name": "1748023567784_card.png"
+      },
+      "1748023570467_card.png": {
+        "path": "/cards/11.1/extroverted/1748023570467_card.png",
+        "name": "1748023570467_card.png"
+      }
+    },
+    "introverted": {
+      "1748023547223_card.png": {
+        "path": "/cards/11.1/introverted/1748023547223_card.png",
+        "name": "1748023547223_card.png"
+      },
+      "1748023549567_card.png": {
+        "path": "/cards/11.1/introverted/1748023549567_card.png",
+        "name": "1748023549567_card.png"
+      },
+      "1748023551759_card.png": {
+        "path": "/cards/11.1/introverted/1748023551759_card.png",
+        "name": "1748023551759_card.png"
+      },
+      "1748023554382_card.png": {
+        "path": "/cards/11.1/introverted/1748023554382_card.png",
+        "name": "1748023554382_card.png"
+      },
+      "1748023557082_card.png": {
+        "path": "/cards/11.1/introverted/1748023557082_card.png",
+        "name": "1748023557082_card.png"
+      }
+    },
+    "kinestetic": {
+      "1748023533603_card.png": {
+        "path": "/cards/11.1/kinestetic/1748023533603_card.png",
+        "name": "1748023533603_card.png"
+      },
+      "1748023535905_card.png": {
+        "path": "/cards/11.1/kinestetic/1748023535905_card.png",
+        "name": "1748023535905_card.png"
+      },
+      "1748023538928_card.png": {
+        "path": "/cards/11.1/kinestetic/1748023538928_card.png",
+        "name": "1748023538928_card.png"
+      },
+      "1748023541490_card.png": {
+        "path": "/cards/11.1/kinestetic/1748023541490_card.png",
+        "name": "1748023541490_card.png"
+      }
+    },
+    "visual": {
+      "1748023498265_card.png": {
+        "path": "/cards/11.1/visual/1748023498265_card.png",
+        "name": "1748023498265_card.png"
+      },
+      "1748023510453_card.png": {
+        "path": "/cards/11.1/visual/1748023510453_card.png",
+        "name": "1748023510453_card.png"
+      },
+      "1748023512878_card.png": {
+        "path": "/cards/11.1/visual/1748023512878_card.png",
+        "name": "1748023512878_card.png"
+      },
+      "1748023517410_card.png": {
+        "path": "/cards/11.1/visual/1748023517410_card.png",
+        "name": "1748023517410_card.png"
+      }
+    }
+  },
+  "11.2": {
+    "auditory": {
+      "1748023717540_card.png": {
+        "path": "/cards/11.2/auditory/1748023717540_card.png",
+        "name": "1748023717540_card.png"
+      },
+      "1748023720147_card.png": {
+        "path": "/cards/11.2/auditory/1748023720147_card.png",
+        "name": "1748023720147_card.png"
+      },
+      "1748023722423_card.png": {
+        "path": "/cards/11.2/auditory/1748023722423_card.png",
+        "name": "1748023722423_card.png"
+      },
+      "1748023724585_card.png": {
+        "path": "/cards/11.2/auditory/1748023724585_card.png",
+        "name": "1748023724585_card.png"
+      },
+      "1748023726796_card.png": {
+        "path": "/cards/11.2/auditory/1748023726796_card.png",
+        "name": "1748023726796_card.png"
+      }
+    },
+    "extroverted": {
+      "1748023753243_card.png": {
+        "path": "/cards/11.2/extroverted/1748023753243_card.png",
+        "name": "1748023753243_card.png"
+      },
+      "1748023755502_card.png": {
+        "path": "/cards/11.2/extroverted/1748023755502_card.png",
+        "name": "1748023755502_card.png"
+      },
+      "1748023757846_card.png": {
+        "path": "/cards/11.2/extroverted/1748023757846_card.png",
+        "name": "1748023757846_card.png"
+      },
+      "1748023760263_card.png": {
+        "path": "/cards/11.2/extroverted/1748023760263_card.png",
+        "name": "1748023760263_card.png"
+      },
+      "1748023762742_card.png": {
+        "path": "/cards/11.2/extroverted/1748023762742_card.png",
+        "name": "1748023762742_card.png"
+      }
+    },
+    "introverted": {
+      "1748023741466_card.png": {
+        "path": "/cards/11.2/introverted/1748023741466_card.png",
+        "name": "1748023741466_card.png"
+      },
+      "1748023743912_card.png": {
+        "path": "/cards/11.2/introverted/1748023743912_card.png",
+        "name": "1748023743912_card.png"
+      },
+      "1748023746266_card.png": {
+        "path": "/cards/11.2/introverted/1748023746266_card.png",
+        "name": "1748023746266_card.png"
+      },
+      "1748023748415_card.png": {
+        "path": "/cards/11.2/introverted/1748023748415_card.png",
+        "name": "1748023748415_card.png"
+      },
+      "1748023750814_card.png": {
+        "path": "/cards/11.2/introverted/1748023750814_card.png",
+        "name": "1748023750814_card.png"
+      }
+    },
+    "kinestetic": {
+      "1748023728980_card.png": {
+        "path": "/cards/11.2/kinestetic/1748023728980_card.png",
+        "name": "1748023728980_card.png"
+      },
+      "1748023731251_card.png": {
+        "path": "/cards/11.2/kinestetic/1748023731251_card.png",
+        "name": "1748023731251_card.png"
+      },
+      "1748023733938_card.png": {
+        "path": "/cards/11.2/kinestetic/1748023733938_card.png",
+        "name": "1748023733938_card.png"
+      },
+      "1748023736226_card.png": {
+        "path": "/cards/11.2/kinestetic/1748023736226_card.png",
+        "name": "1748023736226_card.png"
+      },
+      "1748023738946_card.png": {
+        "path": "/cards/11.2/kinestetic/1748023738946_card.png",
+        "name": "1748023738946_card.png"
+      }
+    },
+    "visual": {
+      "1748023704999_card.png": {
+        "path": "/cards/11.2/visual/1748023704999_card.png",
+        "name": "1748023704999_card.png"
+      },
+      "1748023707579_card.png": {
+        "path": "/cards/11.2/visual/1748023707579_card.png",
+        "name": "1748023707579_card.png"
+      },
+      "1748023710073_card.png": {
+        "path": "/cards/11.2/visual/1748023710073_card.png",
+        "name": "1748023710073_card.png"
+      },
+      "1748023712481_card.png": {
+        "path": "/cards/11.2/visual/1748023712481_card.png",
+        "name": "1748023712481_card.png"
+      },
+      "1748023715063_card.png": {
+        "path": "/cards/11.2/visual/1748023715063_card.png",
+        "name": "1748023715063_card.png"
+      }
+    }
+  },
+  "12.1": {
+    "auditory": {
+      "1748023996256_card.png": {
+        "path": "/cards/12.1/auditory/1748023996256_card.png",
+        "name": "1748023996256_card.png"
+      },
+      "1748023999392_card.png": {
+        "path": "/cards/12.1/auditory/1748023999392_card.png",
+        "name": "1748023999392_card.png"
+      },
+      "1748024001574_card.png": {
+        "path": "/cards/12.1/auditory/1748024001574_card.png",
+        "name": "1748024001574_card.png"
+      }
+    },
+    "extroverted": {
+      "1748024033363_card.png": {
+        "path": "/cards/12.1/extroverted/1748024033363_card.png",
+        "name": "1748024033363_card.png"
+      },
+      "1748024036338_card.png": {
+        "path": "/cards/12.1/extroverted/1748024036338_card.png",
+        "name": "1748024036338_card.png"
+      },
+      "1748024038637_card.png": {
+        "path": "/cards/12.1/extroverted/1748024038637_card.png",
+        "name": "1748024038637_card.png"
+      },
+      "1748024040645_card.png": {
+        "path": "/cards/12.1/extroverted/1748024040645_card.png",
+        "name": "1748024040645_card.png"
+      },
+      "1748024043003_card.png": {
+        "path": "/cards/12.1/extroverted/1748024043003_card.png",
+        "name": "1748024043003_card.png"
+      }
+    },
+    "introverted": {
+      "1748024020725_card.png": {
+        "path": "/cards/12.1/introverted/1748024020725_card.png",
+        "name": "1748024020725_card.png"
+      },
+      "1748024023196_card.png": {
+        "path": "/cards/12.1/introverted/1748024023196_card.png",
+        "name": "1748024023196_card.png"
+      },
+      "1748024025262_card.png": {
+        "path": "/cards/12.1/introverted/1748024025262_card.png",
+        "name": "1748024025262_card.png"
+      },
+      "1748024027495_card.png": {
+        "path": "/cards/12.1/introverted/1748024027495_card.png",
+        "name": "1748024027495_card.png"
+      },
+      "1748024030101_card.png": {
+        "path": "/cards/12.1/introverted/1748024030101_card.png",
+        "name": "1748024030101_card.png"
+      }
+    },
+    "kinestetic": {
+      "1748024009409_card.png": {
+        "path": "/cards/12.1/kinestetic/1748024009409_card.png",
+        "name": "1748024009409_card.png"
+      },
+      "1748024011446_card.png": {
+        "path": "/cards/12.1/kinestetic/1748024011446_card.png",
+        "name": "1748024011446_card.png"
+      },
+      "1748024013761_card.png": {
+        "path": "/cards/12.1/kinestetic/1748024013761_card.png",
+        "name": "1748024013761_card.png"
+      },
+      "1748024015975_card.png": {
+        "path": "/cards/12.1/kinestetic/1748024015975_card.png",
+        "name": "1748024015975_card.png"
+      },
+      "1748024018194_card.png": {
+        "path": "/cards/12.1/kinestetic/1748024018194_card.png",
+        "name": "1748024018194_card.png"
+      }
+    },
+    "visual": {
+      "1748023972286_card.png": {
+        "path": "/cards/12.1/visual/1748023972286_card.png",
+        "name": "1748023972286_card.png"
+      },
+      "1748023983363_card.png": {
+        "path": "/cards/12.1/visual/1748023983363_card.png",
+        "name": "1748023983363_card.png"
+      },
+      "1748023994017_card.png": {
+        "path": "/cards/12.1/visual/1748023994017_card.png",
+        "name": "1748023994017_card.png"
+      }
+    }
+  },
+  "12.2": {
+    "auditory": {
+      "1748024169358_card.png": {
+        "path": "/cards/12.2/auditory/1748024169358_card.png",
+        "name": "1748024169358_card.png"
+      },
+      "1748024179416_card.png": {
+        "path": "/cards/12.2/auditory/1748024179416_card.png",
+        "name": "1748024179416_card.png"
+      },
+      "1748024181365_card.png": {
+        "path": "/cards/12.2/auditory/1748024181365_card.png",
+        "name": "1748024181365_card.png"
+      },
+      "1748024183712_card.png": {
+        "path": "/cards/12.2/auditory/1748024183712_card.png",
+        "name": "1748024183712_card.png"
+      }
+    },
+    "extroverted": {
+      "1748024210482_card.png": {
+        "path": "/cards/12.2/extroverted/1748024210482_card.png",
+        "name": "1748024210482_card.png"
+      },
+      "1748024212939_card.png": {
+        "path": "/cards/12.2/extroverted/1748024212939_card.png",
+        "name": "1748024212939_card.png"
+      },
+      "1748024216111_card.png": {
+        "path": "/cards/12.2/extroverted/1748024216111_card.png",
+        "name": "1748024216111_card.png"
+      },
+      "1748024218429_card.png": {
+        "path": "/cards/12.2/extroverted/1748024218429_card.png",
+        "name": "1748024218429_card.png"
+      },
+      "1748024220680_card.png": {
+        "path": "/cards/12.2/extroverted/1748024220680_card.png",
+        "name": "1748024220680_card.png"
+      }
+    },
+    "introverted": {
+      "1748024198233_card.png": {
+        "path": "/cards/12.2/introverted/1748024198233_card.png",
+        "name": "1748024198233_card.png"
+      },
+      "1748024200754_card.png": {
+        "path": "/cards/12.2/introverted/1748024200754_card.png",
+        "name": "1748024200754_card.png"
+      },
+      "1748024203140_card.png": {
+        "path": "/cards/12.2/introverted/1748024203140_card.png",
+        "name": "1748024203140_card.png"
+      },
+      "1748024205491_card.png": {
+        "path": "/cards/12.2/introverted/1748024205491_card.png",
+        "name": "1748024205491_card.png"
+      },
+      "1748024207747_card.png": {
+        "path": "/cards/12.2/introverted/1748024207747_card.png",
+        "name": "1748024207747_card.png"
+      }
+    },
+    "kinestetic": {
+      "1748024186131_card.png": {
+        "path": "/cards/12.2/kinestetic/1748024186131_card.png",
+        "name": "1748024186131_card.png"
+      },
+      "1748024188426_card.png": {
+        "path": "/cards/12.2/kinestetic/1748024188426_card.png",
+        "name": "1748024188426_card.png"
+      },
+      "1748024190604_card.png": {
+        "path": "/cards/12.2/kinestetic/1748024190604_card.png",
+        "name": "1748024190604_card.png"
+      },
+      "1748024193095_card.png": {
+        "path": "/cards/12.2/kinestetic/1748024193095_card.png",
+        "name": "1748024193095_card.png"
+      },
+      "1748024195491_card.png": {
+        "path": "/cards/12.2/kinestetic/1748024195491_card.png",
+        "name": "1748024195491_card.png"
+      }
+    },
+    "visual": {
+      "1748024151251_card.png": {
+        "path": "/cards/12.2/visual/1748024151251_card.png",
+        "name": "1748024151251_card.png"
+      },
+      "1748024161938_card.png": {
+        "path": "/cards/12.2/visual/1748024161938_card.png",
+        "name": "1748024161938_card.png"
+      },
+      "1748024164703_card.png": {
+        "path": "/cards/12.2/visual/1748024164703_card.png",
+        "name": "1748024164703_card.png"
+      },
+      "1748024167087_card.png": {
+        "path": "/cards/12.2/visual/1748024167087_card.png",
+        "name": "1748024167087_card.png"
+      }
+    }
+  },
+  "2.1": {
+    "auditory": {
+      "1748019341019_card.png": {
+        "path": "/cards/2.1/auditory/1748019341019_card.png",
+        "name": "1748019341019_card.png"
+      },
+      "1748019343621_card.png": {
+        "path": "/cards/2.1/auditory/1748019343621_card.png",
+        "name": "1748019343621_card.png"
+      },
+      "1748019346160_card.png": {
+        "path": "/cards/2.1/auditory/1748019346160_card.png",
+        "name": "1748019346160_card.png"
+      },
+      "1748019348548_card.png": {
+        "path": "/cards/2.1/auditory/1748019348548_card.png",
+        "name": "1748019348548_card.png"
+      }
+    },
+    "extroverted": {
+      "1748019377486_card.png": {
+        "path": "/cards/2.1/extroverted/1748019377486_card.png",
+        "name": "1748019377486_card.png"
+      },
+      "1748019379951_card.png": {
+        "path": "/cards/2.1/extroverted/1748019379951_card.png",
+        "name": "1748019379951_card.png"
+      },
+      "1748019382325_card.png": {
+        "path": "/cards/2.1/extroverted/1748019382325_card.png",
+        "name": "1748019382325_card.png"
+      },
+      "1748019384789_card.png": {
+        "path": "/cards/2.1/extroverted/1748019384789_card.png",
+        "name": "1748019384789_card.png"
+      },
+      "1748019387386_card.png": {
+        "path": "/cards/2.1/extroverted/1748019387386_card.png",
+        "name": "1748019387386_card.png"
+      }
+    },
+    "introverted": {
+      "1748019365655_card.png": {
+        "path": "/cards/2.1/introverted/1748019365655_card.png",
+        "name": "1748019365655_card.png"
+      },
+      "1748019370463_card.png": {
+        "path": "/cards/2.1/introverted/1748019370463_card.png",
+        "name": "1748019370463_card.png"
+      },
+      "1748019372699_card.png": {
+        "path": "/cards/2.1/introverted/1748019372699_card.png",
+        "name": "1748019372699_card.png"
+      },
+      "1748019375076_card.png": {
+        "path": "/cards/2.1/introverted/1748019375076_card.png",
+        "name": "1748019375076_card.png"
+      }
+    },
+    "kinestetic": {
+      "1748019353222_card.png": {
+        "path": "/cards/2.1/kinestetic/1748019353222_card.png",
+        "name": "1748019353222_card.png"
+      },
+      "1748019355429_card.png": {
+        "path": "/cards/2.1/kinestetic/1748019355429_card.png",
+        "name": "1748019355429_card.png"
+      },
+      "1748019358150_card.png": {
+        "path": "/cards/2.1/kinestetic/1748019358150_card.png",
+        "name": "1748019358150_card.png"
+      },
+      "1748019360542_card.png": {
+        "path": "/cards/2.1/kinestetic/1748019360542_card.png",
+        "name": "1748019360542_card.png"
+      },
+      "1748019363098_card.png": {
+        "path": "/cards/2.1/kinestetic/1748019363098_card.png",
+        "name": "1748019363098_card.png"
+      }
+    },
+    "visual": {
+      "1748019326880_card.png": {
+        "path": "/cards/2.1/visual/1748019326880_card.png",
+        "name": "1748019326880_card.png"
+      },
+      "1748019330034_card.png": {
+        "path": "/cards/2.1/visual/1748019330034_card.png",
+        "name": "1748019330034_card.png"
+      },
+      "1748019332915_card.png": {
+        "path": "/cards/2.1/visual/1748019332915_card.png",
+        "name": "1748019332915_card.png"
+      },
+      "1748019335570_card.png": {
+        "path": "/cards/2.1/visual/1748019335570_card.png",
+        "name": "1748019335570_card.png"
+      },
+      "1748019338329_card.png": {
+        "path": "/cards/2.1/visual/1748019338329_card.png",
+        "name": "1748019338329_card.png"
+      }
+    }
+  },
+  "2.2": {
+    "auditory": {
+      "1748019575642_card.png": {
+        "path": "/cards/2.2/auditory/1748019575642_card.png",
+        "name": "1748019575642_card.png"
+      },
+      "1748019578277_card.png": {
+        "path": "/cards/2.2/auditory/1748019578277_card.png",
+        "name": "1748019578277_card.png"
+      },
+      "1748019580983_card.png": {
+        "path": "/cards/2.2/auditory/1748019580983_card.png",
+        "name": "1748019580983_card.png"
+      },
+      "1748019583412_card.png": {
+        "path": "/cards/2.2/auditory/1748019583412_card.png",
+        "name": "1748019583412_card.png"
+      }
+    },
+    "extroverted": {
+      "1748019617022_card.png": {
+        "path": "/cards/2.2/extroverted/1748019617022_card.png",
+        "name": "1748019617022_card.png"
+      },
+      "1748019619789_card.png": {
+        "path": "/cards/2.2/extroverted/1748019619789_card.png",
+        "name": "1748019619789_card.png"
+      },
+      "1748019622450_card.png": {
+        "path": "/cards/2.2/extroverted/1748019622450_card.png",
+        "name": "1748019622450_card.png"
+      },
+      "1748019625398_card.png": {
+        "path": "/cards/2.2/extroverted/1748019625398_card.png",
+        "name": "1748019625398_card.png"
+      },
+      "1748019628893_card.png": {
+        "path": "/cards/2.2/extroverted/1748019628893_card.png",
+        "name": "1748019628893_card.png"
+      }
+    },
+    "introverted": {
+      "1748019599286_card.png": {
+        "path": "/cards/2.2/introverted/1748019599286_card.png",
+        "name": "1748019599286_card.png"
+      },
+      "1748019602368_card.png": {
+        "path": "/cards/2.2/introverted/1748019602368_card.png",
+        "name": "1748019602368_card.png"
+      },
+      "1748019605723_card.png": {
+        "path": "/cards/2.2/introverted/1748019605723_card.png",
+        "name": "1748019605723_card.png"
+      },
+      "1748019611711_card.png": {
+        "path": "/cards/2.2/introverted/1748019611711_card.png",
+        "name": "1748019611711_card.png"
+      },
+      "1748019614554_card.png": {
+        "path": "/cards/2.2/introverted/1748019614554_card.png",
+        "name": "1748019614554_card.png"
+      }
+    },
+    "kinestetic": {
+      "1748019585943_card.png": {
+        "path": "/cards/2.2/kinestetic/1748019585943_card.png",
+        "name": "1748019585943_card.png"
+      },
+      "1748019588747_card.png": {
+        "path": "/cards/2.2/kinestetic/1748019588747_card.png",
+        "name": "1748019588747_card.png"
+      },
+      "1748019591203_card.png": {
+        "path": "/cards/2.2/kinestetic/1748019591203_card.png",
+        "name": "1748019591203_card.png"
+      },
+      "1748019593816_card.png": {
+        "path": "/cards/2.2/kinestetic/1748019593816_card.png",
+        "name": "1748019593816_card.png"
+      },
+      "1748019596534_card.png": {
+        "path": "/cards/2.2/kinestetic/1748019596534_card.png",
+        "name": "1748019596534_card.png"
+      }
+    },
+    "visual": {
+      "1748019560343_card.png": {
+        "path": "/cards/2.2/visual/1748019560343_card.png",
+        "name": "1748019560343_card.png"
+      },
+      "1748019563126_card.png": {
+        "path": "/cards/2.2/visual/1748019563126_card.png",
+        "name": "1748019563126_card.png"
+      },
+      "1748019565965_card.png": {
+        "path": "/cards/2.2/visual/1748019565965_card.png",
+        "name": "1748019565965_card.png"
+      },
+      "1748019568450_card.png": {
+        "path": "/cards/2.2/visual/1748019568450_card.png",
+        "name": "1748019568450_card.png"
+      },
+      "1748019570771_card.png": {
+        "path": "/cards/2.2/visual/1748019570771_card.png",
+        "name": "1748019570771_card.png"
+      }
+    }
+  },
+  "3.1": {
+    "auditory": {
+      "1748019838806_card.png": {
+        "path": "/cards/3.1/auditory/1748019838806_card.png",
+        "name": "1748019838806_card.png"
+      },
+      "1748019841084_card.png": {
+        "path": "/cards/3.1/auditory/1748019841084_card.png",
+        "name": "1748019841084_card.png"
+      },
+      "1748019843457_card.png": {
+        "path": "/cards/3.1/auditory/1748019843457_card.png",
+        "name": "1748019843457_card.png"
+      },
+      "1748019846095_card.png": {
+        "path": "/cards/3.1/auditory/1748019846095_card.png",
+        "name": "1748019846095_card.png"
+      },
+      "1748019848714_card.png": {
+        "path": "/cards/3.1/auditory/1748019848714_card.png",
+        "name": "1748019848714_card.png"
+      }
+    },
+    "extroverted": {
+      "1748019879016_card.png": {
+        "path": "/cards/3.1/extroverted/1748019879016_card.png",
+        "name": "1748019879016_card.png"
+      },
+      "1748019881151_card.png": {
+        "path": "/cards/3.1/extroverted/1748019881151_card.png",
+        "name": "1748019881151_card.png"
+      },
+      "1748019883340_card.png": {
+        "path": "/cards/3.1/extroverted/1748019883340_card.png",
+        "name": "1748019883340_card.png"
+      },
+      "1748019885474_card.png": {
+        "path": "/cards/3.1/extroverted/1748019885474_card.png",
+        "name": "1748019885474_card.png"
+      },
+      "1748019887934_card.png": {
+        "path": "/cards/3.1/extroverted/1748019887934_card.png",
+        "name": "1748019887934_card.png"
+      }
+    },
+    "introverted": {
+      "1748019867011_card.png": {
+        "path": "/cards/3.1/introverted/1748019867011_card.png",
+        "name": "1748019867011_card.png"
+      },
+      "1748019869864_card.png": {
+        "path": "/cards/3.1/introverted/1748019869864_card.png",
+        "name": "1748019869864_card.png"
+      },
+      "1748019872246_card.png": {
+        "path": "/cards/3.1/introverted/1748019872246_card.png",
+        "name": "1748019872246_card.png"
+      },
+      "1748019874553_card.png": {
+        "path": "/cards/3.1/introverted/1748019874553_card.png",
+        "name": "1748019874553_card.png"
+      },
+      "1748019876824_card.png": {
+        "path": "/cards/3.1/introverted/1748019876824_card.png",
+        "name": "1748019876824_card.png"
+      }
+    },
+    "kinestetic": {
+      "1748019851682_card.png": {
+        "path": "/cards/3.1/kinestetic/1748019851682_card.png",
+        "name": "1748019851682_card.png"
+      },
+      "1748019854761_card.png": {
+        "path": "/cards/3.1/kinestetic/1748019854761_card.png",
+        "name": "1748019854761_card.png"
+      },
+      "1748019859424_card.png": {
+        "path": "/cards/3.1/kinestetic/1748019859424_card.png",
+        "name": "1748019859424_card.png"
+      },
+      "1748019861925_card.png": {
+        "path": "/cards/3.1/kinestetic/1748019861925_card.png",
+        "name": "1748019861925_card.png"
+      },
+      "1748019864324_card.png": {
+        "path": "/cards/3.1/kinestetic/1748019864324_card.png",
+        "name": "1748019864324_card.png"
+      }
+    },
+    "visual": {
+      "1748019825838_card.png": {
+        "path": "/cards/3.1/visual/1748019825838_card.png",
+        "name": "1748019825838_card.png"
+      },
+      "1748019828432_card.png": {
+        "path": "/cards/3.1/visual/1748019828432_card.png",
+        "name": "1748019828432_card.png"
+      },
+      "1748019831151_card.png": {
+        "path": "/cards/3.1/visual/1748019831151_card.png",
+        "name": "1748019831151_card.png"
+      },
+      "1748019833742_card.png": {
+        "path": "/cards/3.1/visual/1748019833742_card.png",
+        "name": "1748019833742_card.png"
+      },
+      "1748019836470_card.png": {
+        "path": "/cards/3.1/visual/1748019836470_card.png",
+        "name": "1748019836470_card.png"
+      }
+    }
+  },
+  "3.2": {
+    "auditory": {
+      "1748020036630_card.png": {
+        "path": "/cards/3.2/auditory/1748020036630_card.png",
+        "name": "1748020036630_card.png"
+      },
+      "1748020040770_card.png": {
+        "path": "/cards/3.2/auditory/1748020040770_card.png",
+        "name": "1748020040770_card.png"
+      },
+      "1748020043092_card.png": {
+        "path": "/cards/3.2/auditory/1748020043092_card.png",
+        "name": "1748020043092_card.png"
+      },
+      "1748020045393_card.png": {
+        "path": "/cards/3.2/auditory/1748020045393_card.png",
+        "name": "1748020045393_card.png"
+      }
+    },
+    "extroverted": {
+      "1748020071430_card.png": {
+        "path": "/cards/3.2/extroverted/1748020071430_card.png",
+        "name": "1748020071430_card.png"
+      },
+      "1748020073491_card.png": {
+        "path": "/cards/3.2/extroverted/1748020073491_card.png",
+        "name": "1748020073491_card.png"
+      },
+      "1748020075684_card.png": {
+        "path": "/cards/3.2/extroverted/1748020075684_card.png",
+        "name": "1748020075684_card.png"
+      },
+      "1748020086259_card.png": {
+        "path": "/cards/3.2/extroverted/1748020086259_card.png",
+        "name": "1748020086259_card.png"
+      }
+    },
+    "introverted": {
+      "1748020060807_card.png": {
+        "path": "/cards/3.2/introverted/1748020060807_card.png",
+        "name": "1748020060807_card.png"
+      },
+      "1748020063023_card.png": {
+        "path": "/cards/3.2/introverted/1748020063023_card.png",
+        "name": "1748020063023_card.png"
+      },
+      "1748020065049_card.png": {
+        "path": "/cards/3.2/introverted/1748020065049_card.png",
+        "name": "1748020065049_card.png"
+      },
+      "1748020067149_card.png": {
+        "path": "/cards/3.2/introverted/1748020067149_card.png",
+        "name": "1748020067149_card.png"
+      },
+      "1748020069248_card.png": {
+        "path": "/cards/3.2/introverted/1748020069248_card.png",
+        "name": "1748020069248_card.png"
+      }
+    },
+    "kinestetic": {
+      "1748020047799_card.png": {
+        "path": "/cards/3.2/kinestetic/1748020047799_card.png",
+        "name": "1748020047799_card.png"
+      },
+      "1748020050227_card.png": {
+        "path": "/cards/3.2/kinestetic/1748020050227_card.png",
+        "name": "1748020050227_card.png"
+      },
+      "1748020052780_card.png": {
+        "path": "/cards/3.2/kinestetic/1748020052780_card.png",
+        "name": "1748020052780_card.png"
+      },
+      "1748020058550_card.png": {
+        "path": "/cards/3.2/kinestetic/1748020058550_card.png",
+        "name": "1748020058550_card.png"
+      }
+    },
+    "visual": {
+      "1748020024861_card.png": {
+        "path": "/cards/3.2/visual/1748020024861_card.png",
+        "name": "1748020024861_card.png"
+      },
+      "1748020029799_card.png": {
+        "path": "/cards/3.2/visual/1748020029799_card.png",
+        "name": "1748020029799_card.png"
+      },
+      "1748020032049_card.png": {
+        "path": "/cards/3.2/visual/1748020032049_card.png",
+        "name": "1748020032049_card.png"
+      },
+      "1748020034452_card.png": {
+        "path": "/cards/3.2/visual/1748020034452_card.png",
+        "name": "1748020034452_card.png"
+      }
+    }
+  },
+  "4.1": {
+    "auditory": {
+      "1748020296892_card.png": {
+        "path": "/cards/4.1/auditory/1748020296892_card.png",
+        "name": "1748020296892_card.png"
+      },
+      "1748020299092_card.png": {
+        "path": "/cards/4.1/auditory/1748020299092_card.png",
+        "name": "1748020299092_card.png"
+      },
+      "1748020301431_card.png": {
+        "path": "/cards/4.1/auditory/1748020301431_card.png",
+        "name": "1748020301431_card.png"
+      },
+      "1748020303731_card.png": {
+        "path": "/cards/4.1/auditory/1748020303731_card.png",
+        "name": "1748020303731_card.png"
+      },
+      "1748020305993_card.png": {
+        "path": "/cards/4.1/auditory/1748020305993_card.png",
+        "name": "1748020305993_card.png"
+      }
+    },
+    "extroverted": {
+      "1748020333382_card.png": {
+        "path": "/cards/4.1/extroverted/1748020333382_card.png",
+        "name": "1748020333382_card.png"
+      },
+      "1748020335565_card.png": {
+        "path": "/cards/4.1/extroverted/1748020335565_card.png",
+        "name": "1748020335565_card.png"
+      },
+      "1748020337954_card.png": {
+        "path": "/cards/4.1/extroverted/1748020337954_card.png",
+        "name": "1748020337954_card.png"
+      },
+      "1748020340282_card.png": {
+        "path": "/cards/4.1/extroverted/1748020340282_card.png",
+        "name": "1748020340282_card.png"
+      },
+      "1748020342676_card.png": {
+        "path": "/cards/4.1/extroverted/1748020342676_card.png",
+        "name": "1748020342676_card.png"
+      }
+    },
+    "introverted": {
+      "1748020321791_card.png": {
+        "path": "/cards/4.1/introverted/1748020321791_card.png",
+        "name": "1748020321791_card.png"
+      },
+      "1748020323938_card.png": {
+        "path": "/cards/4.1/introverted/1748020323938_card.png",
+        "name": "1748020323938_card.png"
+      },
+      "1748020326022_card.png": {
+        "path": "/cards/4.1/introverted/1748020326022_card.png",
+        "name": "1748020326022_card.png"
+      },
+      "1748020328391_card.png": {
+        "path": "/cards/4.1/introverted/1748020328391_card.png",
+        "name": "1748020328391_card.png"
+      },
+      "1748020330960_card.png": {
+        "path": "/cards/4.1/introverted/1748020330960_card.png",
+        "name": "1748020330960_card.png"
+      }
+    },
+    "kinestetic": {
+      "1748020309710_card.png": {
+        "path": "/cards/4.1/kinestetic/1748020309710_card.png",
+        "name": "1748020309710_card.png"
+      },
+      "1748020311961_card.png": {
+        "path": "/cards/4.1/kinestetic/1748020311961_card.png",
+        "name": "1748020311961_card.png"
+      },
+      "1748020314641_card.png": {
+        "path": "/cards/4.1/kinestetic/1748020314641_card.png",
+        "name": "1748020314641_card.png"
+      },
+      "1748020317122_card.png": {
+        "path": "/cards/4.1/kinestetic/1748020317122_card.png",
+        "name": "1748020317122_card.png"
+      },
+      "1748020319466_card.png": {
+        "path": "/cards/4.1/kinestetic/1748020319466_card.png",
+        "name": "1748020319466_card.png"
+      }
+    },
+    "visual": {
+      "1748020284159_card.png": {
+        "path": "/cards/4.1/visual/1748020284159_card.png",
+        "name": "1748020284159_card.png"
+      },
+      "1748020286921_card.png": {
+        "path": "/cards/4.1/visual/1748020286921_card.png",
+        "name": "1748020286921_card.png"
+      },
+      "1748020289797_card.png": {
+        "path": "/cards/4.1/visual/1748020289797_card.png",
+        "name": "1748020289797_card.png"
+      },
+      "1748020292221_card.png": {
+        "path": "/cards/4.1/visual/1748020292221_card.png",
+        "name": "1748020292221_card.png"
+      },
+      "1748020294585_card.png": {
+        "path": "/cards/4.1/visual/1748020294585_card.png",
+        "name": "1748020294585_card.png"
+      }
+    }
+  },
+  "4.2": {
+    "auditory": {
+      "1748020507720_card.png": {
+        "path": "/cards/4.2/auditory/1748020507720_card.png",
+        "name": "1748020507720_card.png"
+      },
+      "1748020510187_card.png": {
+        "path": "/cards/4.2/auditory/1748020510187_card.png",
+        "name": "1748020510187_card.png"
+      },
+      "1748020513056_card.png": {
+        "path": "/cards/4.2/auditory/1748020513056_card.png",
+        "name": "1748020513056_card.png"
+      },
+      "1748020515393_card.png": {
+        "path": "/cards/4.2/auditory/1748020515393_card.png",
+        "name": "1748020515393_card.png"
+      }
+    },
+    "extroverted": {
+      "1748020546495_card.png": {
+        "path": "/cards/4.2/extroverted/1748020546495_card.png",
+        "name": "1748020546495_card.png"
+      },
+      "1748020548992_card.png": {
+        "path": "/cards/4.2/extroverted/1748020548992_card.png",
+        "name": "1748020548992_card.png"
+      },
+      "1748020551550_card.png": {
+        "path": "/cards/4.2/extroverted/1748020551550_card.png",
+        "name": "1748020551550_card.png"
+      },
+      "1748020554302_card.png": {
+        "path": "/cards/4.2/extroverted/1748020554302_card.png",
+        "name": "1748020554302_card.png"
+      },
+      "1748020556624_card.png": {
+        "path": "/cards/4.2/extroverted/1748020556624_card.png",
+        "name": "1748020556624_card.png"
+      }
+    },
+    "introverted": {
+      "1748020533326_card.png": {
+        "path": "/cards/4.2/introverted/1748020533326_card.png",
+        "name": "1748020533326_card.png"
+      },
+      "1748020536403_card.png": {
+        "path": "/cards/4.2/introverted/1748020536403_card.png",
+        "name": "1748020536403_card.png"
+      },
+      "1748020538649_card.png": {
+        "path": "/cards/4.2/introverted/1748020538649_card.png",
+        "name": "1748020538649_card.png"
+      },
+      "1748020541177_card.png": {
+        "path": "/cards/4.2/introverted/1748020541177_card.png",
+        "name": "1748020541177_card.png"
+      },
+      "1748020543508_card.png": {
+        "path": "/cards/4.2/introverted/1748020543508_card.png",
+        "name": "1748020543508_card.png"
+      }
+    },
+    "kinestetic": {
+      "1748020517779_card.png": {
+        "path": "/cards/4.2/kinestetic/1748020517779_card.png",
+        "name": "1748020517779_card.png"
+      },
+      "1748020521980_card.png": {
+        "path": "/cards/4.2/kinestetic/1748020521980_card.png",
+        "name": "1748020521980_card.png"
+      },
+      "1748020524343_card.png": {
+        "path": "/cards/4.2/kinestetic/1748020524343_card.png",
+        "name": "1748020524343_card.png"
+      },
+      "1748020526945_card.png": {
+        "path": "/cards/4.2/kinestetic/1748020526945_card.png",
+        "name": "1748020526945_card.png"
+      },
+      "1748020529580_card.png": {
+        "path": "/cards/4.2/kinestetic/1748020529580_card.png",
+        "name": "1748020529580_card.png"
+      }
+    },
+    "visual": {
+      "1748020471807_card.png": {
+        "path": "/cards/4.2/visual/1748020471807_card.png",
+        "name": "1748020471807_card.png"
+      },
+      "1748020474629_card.png": {
+        "path": "/cards/4.2/visual/1748020474629_card.png",
+        "name": "1748020474629_card.png"
+      },
+      "1748020477375_card.png": {
+        "path": "/cards/4.2/visual/1748020477375_card.png",
+        "name": "1748020477375_card.png"
+      },
+      "1748020492845_card.png": {
+        "path": "/cards/4.2/visual/1748020492845_card.png",
+        "name": "1748020492845_card.png"
+      }
+    }
+  },
+  "5.1": {
+    "auditory": {
+      "1748020689888_card.png": {
+        "path": "/cards/5.1/auditory/1748020689888_card.png",
+        "name": "1748020689888_card.png"
+      },
+      "1748020692046_card.png": {
+        "path": "/cards/5.1/auditory/1748020692046_card.png",
+        "name": "1748020692046_card.png"
+      },
+      "1748020695197_card.png": {
+        "path": "/cards/5.1/auditory/1748020695197_card.png",
+        "name": "1748020695197_card.png"
+      },
+      "1748020697574_card.png": {
+        "path": "/cards/5.1/auditory/1748020697574_card.png",
+        "name": "1748020697574_card.png"
+      },
+      "1748020699959_card.png": {
+        "path": "/cards/5.1/auditory/1748020699959_card.png",
+        "name": "1748020699959_card.png"
+      }
+    },
+    "extroverted": {
+      "1748020730574_card.png": {
+        "path": "/cards/5.1/extroverted/1748020730574_card.png",
+        "name": "1748020730574_card.png"
+      },
+      "1748020732633_card.png": {
+        "path": "/cards/5.1/extroverted/1748020732633_card.png",
+        "name": "1748020732633_card.png"
+      },
+      "1748020735087_card.png": {
+        "path": "/cards/5.1/extroverted/1748020735087_card.png",
+        "name": "1748020735087_card.png"
+      },
+      "1748020739761_card.png": {
+        "path": "/cards/5.1/extroverted/1748020739761_card.png",
+        "name": "1748020739761_card.png"
+      },
+      "1748020743161_card.png": {
+        "path": "/cards/5.1/extroverted/1748020743161_card.png",
+        "name": "1748020743161_card.png"
+      }
+    },
+    "introverted": {
+      "1748020719328_card.png": {
+        "path": "/cards/5.1/introverted/1748020719328_card.png",
+        "name": "1748020719328_card.png"
+      },
+      "1748020721653_card.png": {
+        "path": "/cards/5.1/introverted/1748020721653_card.png",
+        "name": "1748020721653_card.png"
+      },
+      "1748020723845_card.png": {
+        "path": "/cards/5.1/introverted/1748020723845_card.png",
+        "name": "1748020723845_card.png"
+      },
+      "1748020726091_card.png": {
+        "path": "/cards/5.1/introverted/1748020726091_card.png",
+        "name": "1748020726091_card.png"
+      },
+      "1748020728387_card.png": {
+        "path": "/cards/5.1/introverted/1748020728387_card.png",
+        "name": "1748020728387_card.png"
+      }
+    },
+    "kinestetic": {
+      "1748020702493_card.png": {
+        "path": "/cards/5.1/kinestetic/1748020702493_card.png",
+        "name": "1748020702493_card.png"
+      },
+      "1748020704779_card.png": {
+        "path": "/cards/5.1/kinestetic/1748020704779_card.png",
+        "name": "1748020704779_card.png"
+      },
+      "1748020707493_card.png": {
+        "path": "/cards/5.1/kinestetic/1748020707493_card.png",
+        "name": "1748020707493_card.png"
+      },
+      "1748020712111_card.png": {
+        "path": "/cards/5.1/kinestetic/1748020712111_card.png",
+        "name": "1748020712111_card.png"
+      },
+      "1748020714680_card.png": {
+        "path": "/cards/5.1/kinestetic/1748020714680_card.png",
+        "name": "1748020714680_card.png"
+      }
+    },
+    "visual": {
+      "1748020676686_card.png": {
+        "path": "/cards/5.1/visual/1748020676686_card.png",
+        "name": "1748020676686_card.png"
+      },
+      "1748020679670_card.png": {
+        "path": "/cards/5.1/visual/1748020679670_card.png",
+        "name": "1748020679670_card.png"
+      },
+      "1748020682332_card.png": {
+        "path": "/cards/5.1/visual/1748020682332_card.png",
+        "name": "1748020682332_card.png"
+      },
+      "1748020685192_card.png": {
+        "path": "/cards/5.1/visual/1748020685192_card.png",
+        "name": "1748020685192_card.png"
+      },
+      "1748020687664_card.png": {
+        "path": "/cards/5.1/visual/1748020687664_card.png",
+        "name": "1748020687664_card.png"
+      }
+    }
+  },
+  "5.2": {
+    "auditory": {
+      "1748020866045_card.png": {
+        "path": "/cards/5.2/auditory/1748020866045_card.png",
+        "name": "1748020866045_card.png"
+      },
+      "1748020868208_card.png": {
+        "path": "/cards/5.2/auditory/1748020868208_card.png",
+        "name": "1748020868208_card.png"
+      },
+      "1748020870883_card.png": {
+        "path": "/cards/5.2/auditory/1748020870883_card.png",
+        "name": "1748020870883_card.png"
+      },
+      "1748020873112_card.png": {
+        "path": "/cards/5.2/auditory/1748020873112_card.png",
+        "name": "1748020873112_card.png"
+      },
+      "1748020875635_card.png": {
+        "path": "/cards/5.2/auditory/1748020875635_card.png",
+        "name": "1748020875635_card.png"
+      }
+    },
+    "extroverted": {
+      "1748020907890_card.png": {
+        "path": "/cards/5.2/extroverted/1748020907890_card.png",
+        "name": "1748020907890_card.png"
+      },
+      "1748020910021_card.png": {
+        "path": "/cards/5.2/extroverted/1748020910021_card.png",
+        "name": "1748020910021_card.png"
+      },
+      "1748020912337_card.png": {
+        "path": "/cards/5.2/extroverted/1748020912337_card.png",
+        "name": "1748020912337_card.png"
+      },
+      "1748020914758_card.png": {
+        "path": "/cards/5.2/extroverted/1748020914758_card.png",
+        "name": "1748020914758_card.png"
+      },
+      "1748020917338_card.png": {
+        "path": "/cards/5.2/extroverted/1748020917338_card.png",
+        "name": "1748020917338_card.png"
+      }
+    },
+    "introverted": {
+      "1748020896568_card.png": {
+        "path": "/cards/5.2/introverted/1748020896568_card.png",
+        "name": "1748020896568_card.png"
+      },
+      "1748020898764_card.png": {
+        "path": "/cards/5.2/introverted/1748020898764_card.png",
+        "name": "1748020898764_card.png"
+      },
+      "1748020901047_card.png": {
+        "path": "/cards/5.2/introverted/1748020901047_card.png",
+        "name": "1748020901047_card.png"
+      },
+      "1748020903554_card.png": {
+        "path": "/cards/5.2/introverted/1748020903554_card.png",
+        "name": "1748020903554_card.png"
+      },
+      "1748020905828_card.png": {
+        "path": "/cards/5.2/introverted/1748020905828_card.png",
+        "name": "1748020905828_card.png"
+      }
+    },
+    "kinestetic": {
+      "1748020878184_card.png": {
+        "path": "/cards/5.2/kinestetic/1748020878184_card.png",
+        "name": "1748020878184_card.png"
+      },
+      "1748020880752_card.png": {
+        "path": "/cards/5.2/kinestetic/1748020880752_card.png",
+        "name": "1748020880752_card.png"
+      },
+      "1748020883276_card.png": {
+        "path": "/cards/5.2/kinestetic/1748020883276_card.png",
+        "name": "1748020883276_card.png"
+      },
+      "1748020885837_card.png": {
+        "path": "/cards/5.2/kinestetic/1748020885837_card.png",
+        "name": "1748020885837_card.png"
+      }
+    },
+    "visual": {
+      "1748020852696_card.png": {
+        "path": "/cards/5.2/visual/1748020852696_card.png",
+        "name": "1748020852696_card.png"
+      },
+      "1748020855350_card.png": {
+        "path": "/cards/5.2/visual/1748020855350_card.png",
+        "name": "1748020855350_card.png"
+      },
+      "1748020857976_card.png": {
+        "path": "/cards/5.2/visual/1748020857976_card.png",
+        "name": "1748020857976_card.png"
+      },
+      "1748020860708_card.png": {
+        "path": "/cards/5.2/visual/1748020860708_card.png",
+        "name": "1748020860708_card.png"
+      },
+      "1748020863474_card.png": {
+        "path": "/cards/5.2/visual/1748020863474_card.png",
+        "name": "1748020863474_card.png"
+      }
+    }
+  },
+  "6.1": {
+    "auditory": {
+      "1748021127031_card.png": {
+        "path": "/cards/6.1/auditory/1748021127031_card.png",
+        "name": "1748021127031_card.png"
+      },
+      "1748021129799_card.png": {
+        "path": "/cards/6.1/auditory/1748021129799_card.png",
+        "name": "1748021129799_card.png"
+      },
+      "1748021132995_card.png": {
+        "path": "/cards/6.1/auditory/1748021132995_card.png",
+        "name": "1748021132995_card.png"
+      },
+      "1748021143580_card.png": {
+        "path": "/cards/6.1/auditory/1748021143580_card.png",
+        "name": "1748021143580_card.png"
+      }
+    },
+    "extroverted": {
+      "1748021172225_card.png": {
+        "path": "/cards/6.1/extroverted/1748021172225_card.png",
+        "name": "1748021172225_card.png"
+      },
+      "1748021175130_card.png": {
+        "path": "/cards/6.1/extroverted/1748021175130_card.png",
+        "name": "1748021175130_card.png"
+      },
+      "1748021177576_card.png": {
+        "path": "/cards/6.1/extroverted/1748021177576_card.png",
+        "name": "1748021177576_card.png"
+      },
+      "1748021179852_card.png": {
+        "path": "/cards/6.1/extroverted/1748021179852_card.png",
+        "name": "1748021179852_card.png"
+      },
+      "1748021182229_card.png": {
+        "path": "/cards/6.1/extroverted/1748021182229_card.png",
+        "name": "1748021182229_card.png"
+      }
+    },
+    "introverted": {
+      "1748021159412_card.png": {
+        "path": "/cards/6.1/introverted/1748021159412_card.png",
+        "name": "1748021159412_card.png"
+      },
+      "1748021162013_card.png": {
+        "path": "/cards/6.1/introverted/1748021162013_card.png",
+        "name": "1748021162013_card.png"
+      },
+      "1748021164612_card.png": {
+        "path": "/cards/6.1/introverted/1748021164612_card.png",
+        "name": "1748021164612_card.png"
+      },
+      "1748021167319_card.png": {
+        "path": "/cards/6.1/introverted/1748021167319_card.png",
+        "name": "1748021167319_card.png"
+      },
+      "1748021169835_card.png": {
+        "path": "/cards/6.1/introverted/1748021169835_card.png",
+        "name": "1748021169835_card.png"
+      }
+    },
+    "kinestetic": {
+      "1748021146211_card.png": {
+        "path": "/cards/6.1/kinestetic/1748021146211_card.png",
+        "name": "1748021146211_card.png"
+      },
+      "1748021149046_card.png": {
+        "path": "/cards/6.1/kinestetic/1748021149046_card.png",
+        "name": "1748021149046_card.png"
+      },
+      "1748021151640_card.png": {
+        "path": "/cards/6.1/kinestetic/1748021151640_card.png",
+        "name": "1748021151640_card.png"
+      },
+      "1748021154280_card.png": {
+        "path": "/cards/6.1/kinestetic/1748021154280_card.png",
+        "name": "1748021154280_card.png"
+      },
+      "1748021156940_card.png": {
+        "path": "/cards/6.1/kinestetic/1748021156940_card.png",
+        "name": "1748021156940_card.png"
+      }
+    },
+    "visual": {
+      "1748021116138_card.png": {
+        "path": "/cards/6.1/visual/1748021116138_card.png",
+        "name": "1748021116138_card.png"
+      },
+      "1748021119136_card.png": {
+        "path": "/cards/6.1/visual/1748021119136_card.png",
+        "name": "1748021119136_card.png"
+      },
+      "1748021121926_card.png": {
+        "path": "/cards/6.1/visual/1748021121926_card.png",
+        "name": "1748021121926_card.png"
+      },
+      "1748021124581_card.png": {
+        "path": "/cards/6.1/visual/1748021124581_card.png",
+        "name": "1748021124581_card.png"
+      }
+    }
+  },
+  "6.2": {
+    "auditory": {
+      "1748021355348_card.png": {
+        "path": "/cards/6.2/auditory/1748021355348_card.png",
+        "name": "1748021355348_card.png"
+      },
+      "1748021357772_card.png": {
+        "path": "/cards/6.2/auditory/1748021357772_card.png",
+        "name": "1748021357772_card.png"
+      },
+      "1748021360316_card.png": {
+        "path": "/cards/6.2/auditory/1748021360316_card.png",
+        "name": "1748021360316_card.png"
+      },
+      "1748021362886_card.png": {
+        "path": "/cards/6.2/auditory/1748021362886_card.png",
+        "name": "1748021362886_card.png"
+      },
+      "1748021365027_card.png": {
+        "path": "/cards/6.2/auditory/1748021365027_card.png",
+        "name": "1748021365027_card.png"
+      }
+    },
+    "extroverted": {
+      "1748021398599_card.png": {
+        "path": "/cards/6.2/extroverted/1748021398599_card.png",
+        "name": "1748021398599_card.png"
+      },
+      "1748021401149_card.png": {
+        "path": "/cards/6.2/extroverted/1748021401149_card.png",
+        "name": "1748021401149_card.png"
+      },
+      "1748021404226_card.png": {
+        "path": "/cards/6.2/extroverted/1748021404226_card.png",
+        "name": "1748021404226_card.png"
+      },
+      "1748021407073_card.png": {
+        "path": "/cards/6.2/extroverted/1748021407073_card.png",
+        "name": "1748021407073_card.png"
+      },
+      "1748021409993_card.png": {
+        "path": "/cards/6.2/extroverted/1748021409993_card.png",
+        "name": "1748021409993_card.png"
+      }
+    },
+    "introverted": {
+      "1748021385353_card.png": {
+        "path": "/cards/6.2/introverted/1748021385353_card.png",
+        "name": "1748021385353_card.png"
+      },
+      "1748021387872_card.png": {
+        "path": "/cards/6.2/introverted/1748021387872_card.png",
+        "name": "1748021387872_card.png"
+      },
+      "1748021390607_card.png": {
+        "path": "/cards/6.2/introverted/1748021390607_card.png",
+        "name": "1748021390607_card.png"
+      },
+      "1748021393290_card.png": {
+        "path": "/cards/6.2/introverted/1748021393290_card.png",
+        "name": "1748021393290_card.png"
+      },
+      "1748021395885_card.png": {
+        "path": "/cards/6.2/introverted/1748021395885_card.png",
+        "name": "1748021395885_card.png"
+      }
+    },
+    "kinestetic": {
+      "1748021367472_card.png": {
+        "path": "/cards/6.2/kinestetic/1748021367472_card.png",
+        "name": "1748021367472_card.png"
+      },
+      "1748021374861_card.png": {
+        "path": "/cards/6.2/kinestetic/1748021374861_card.png",
+        "name": "1748021374861_card.png"
+      },
+      "1748021377489_card.png": {
+        "path": "/cards/6.2/kinestetic/1748021377489_card.png",
+        "name": "1748021377489_card.png"
+      },
+      "1748021380137_card.png": {
+        "path": "/cards/6.2/kinestetic/1748021380137_card.png",
+        "name": "1748021380137_card.png"
+      },
+      "1748021382728_card.png": {
+        "path": "/cards/6.2/kinestetic/1748021382728_card.png",
+        "name": "1748021382728_card.png"
+      }
+    },
+    "visual": {
+      "1748021341399_card.png": {
+        "path": "/cards/6.2/visual/1748021341399_card.png",
+        "name": "1748021341399_card.png"
+      },
+      "1748021344451_card.png": {
+        "path": "/cards/6.2/visual/1748021344451_card.png",
+        "name": "1748021344451_card.png"
+      },
+      "1748021347170_card.png": {
+        "path": "/cards/6.2/visual/1748021347170_card.png",
+        "name": "1748021347170_card.png"
+      },
+      "1748021350370_card.png": {
+        "path": "/cards/6.2/visual/1748021350370_card.png",
+        "name": "1748021350370_card.png"
+      },
+      "1748021352980_card.png": {
+        "path": "/cards/6.2/visual/1748021352980_card.png",
+        "name": "1748021352980_card.png"
+      }
+    }
+  },
+  "7.1": {
+    "auditory": {
+      "1748021569807_card.png": {
+        "path": "/cards/7.1/auditory/1748021569807_card.png",
+        "name": "1748021569807_card.png"
+      },
+      "1748021572334_card.png": {
+        "path": "/cards/7.1/auditory/1748021572334_card.png",
+        "name": "1748021572334_card.png"
+      },
+      "1748021574797_card.png": {
+        "path": "/cards/7.1/auditory/1748021574797_card.png",
+        "name": "1748021574797_card.png"
+      },
+      "1748021589176_card.png": {
+        "path": "/cards/7.1/auditory/1748021589176_card.png",
+        "name": "1748021589176_card.png"
+      }
+    },
+    "extroverted": {
+      "1748021616629_card.png": {
+        "path": "/cards/7.1/extroverted/1748021616629_card.png",
+        "name": "1748021616629_card.png"
+      },
+      "1748021618960_card.png": {
+        "path": "/cards/7.1/extroverted/1748021618960_card.png",
+        "name": "1748021618960_card.png"
+      },
+      "1748021622106_card.png": {
+        "path": "/cards/7.1/extroverted/1748021622106_card.png",
+        "name": "1748021622106_card.png"
+      },
+      "1748021624532_card.png": {
+        "path": "/cards/7.1/extroverted/1748021624532_card.png",
+        "name": "1748021624532_card.png"
+      },
+      "1748021627048_card.png": {
+        "path": "/cards/7.1/extroverted/1748021627048_card.png",
+        "name": "1748021627048_card.png"
+      }
+    },
+    "introverted": {
+      "1748021604478_card.png": {
+        "path": "/cards/7.1/introverted/1748021604478_card.png",
+        "name": "1748021604478_card.png"
+      },
+      "1748021607115_card.png": {
+        "path": "/cards/7.1/introverted/1748021607115_card.png",
+        "name": "1748021607115_card.png"
+      },
+      "1748021609371_card.png": {
+        "path": "/cards/7.1/introverted/1748021609371_card.png",
+        "name": "1748021609371_card.png"
+      },
+      "1748021612178_card.png": {
+        "path": "/cards/7.1/introverted/1748021612178_card.png",
+        "name": "1748021612178_card.png"
+      },
+      "1748021614548_card.png": {
+        "path": "/cards/7.1/introverted/1748021614548_card.png",
+        "name": "1748021614548_card.png"
+      }
+    },
+    "kinestetic": {
+      "1748021591494_card.png": {
+        "path": "/cards/7.1/kinestetic/1748021591494_card.png",
+        "name": "1748021591494_card.png"
+      },
+      "1748021594077_card.png": {
+        "path": "/cards/7.1/kinestetic/1748021594077_card.png",
+        "name": "1748021594077_card.png"
+      },
+      "1748021596820_card.png": {
+        "path": "/cards/7.1/kinestetic/1748021596820_card.png",
+        "name": "1748021596820_card.png"
+      },
+      "1748021599263_card.png": {
+        "path": "/cards/7.1/kinestetic/1748021599263_card.png",
+        "name": "1748021599263_card.png"
+      },
+      "1748021601848_card.png": {
+        "path": "/cards/7.1/kinestetic/1748021601848_card.png",
+        "name": "1748021601848_card.png"
+      }
+    },
+    "visual": {
+      "1748021554764_card.png": {
+        "path": "/cards/7.1/visual/1748021554764_card.png",
+        "name": "1748021554764_card.png"
+      },
+      "1748021559230_card.png": {
+        "path": "/cards/7.1/visual/1748021559230_card.png",
+        "name": "1748021559230_card.png"
+      },
+      "1748021561964_card.png": {
+        "path": "/cards/7.1/visual/1748021561964_card.png",
+        "name": "1748021561964_card.png"
+      },
+      "1748021564382_card.png": {
+        "path": "/cards/7.1/visual/1748021564382_card.png",
+        "name": "1748021564382_card.png"
+      },
+      "1748021567186_card.png": {
+        "path": "/cards/7.1/visual/1748021567186_card.png",
+        "name": "1748021567186_card.png"
+      }
+    }
+  },
+  "7.2": {
+    "auditory": {
+      "1748021748227_card.png": {
+        "path": "/cards/7.2/auditory/1748021748227_card.png",
+        "name": "1748021748227_card.png"
+      },
+      "1748021750536_card.png": {
+        "path": "/cards/7.2/auditory/1748021750536_card.png",
+        "name": "1748021750536_card.png"
+      },
+      "1748021752708_card.png": {
+        "path": "/cards/7.2/auditory/1748021752708_card.png",
+        "name": "1748021752708_card.png"
+      },
+      "1748021755055_card.png": {
+        "path": "/cards/7.2/auditory/1748021755055_card.png",
+        "name": "1748021755055_card.png"
+      },
+      "1748021758484_card.png": {
+        "path": "/cards/7.2/auditory/1748021758484_card.png",
+        "name": "1748021758484_card.png"
+      }
+    },
+    "extroverted": {
+      "1748021782625_card.png": {
+        "path": "/cards/7.2/extroverted/1748021782625_card.png",
+        "name": "1748021782625_card.png"
+      },
+      "1748021785258_card.png": {
+        "path": "/cards/7.2/extroverted/1748021785258_card.png",
+        "name": "1748021785258_card.png"
+      },
+      "1748021787824_card.png": {
+        "path": "/cards/7.2/extroverted/1748021787824_card.png",
+        "name": "1748021787824_card.png"
+      },
+      "1748021790301_card.png": {
+        "path": "/cards/7.2/extroverted/1748021790301_card.png",
+        "name": "1748021790301_card.png"
+      },
+      "1748021792755_card.png": {
+        "path": "/cards/7.2/extroverted/1748021792755_card.png",
+        "name": "1748021792755_card.png"
+      }
+    },
+    "introverted": {
+      "1748021771500_card.png": {
+        "path": "/cards/7.2/introverted/1748021771500_card.png",
+        "name": "1748021771500_card.png"
+      },
+      "1748021773772_card.png": {
+        "path": "/cards/7.2/introverted/1748021773772_card.png",
+        "name": "1748021773772_card.png"
+      },
+      "1748021775909_card.png": {
+        "path": "/cards/7.2/introverted/1748021775909_card.png",
+        "name": "1748021775909_card.png"
+      },
+      "1748021778163_card.png": {
+        "path": "/cards/7.2/introverted/1748021778163_card.png",
+        "name": "1748021778163_card.png"
+      },
+      "1748021780283_card.png": {
+        "path": "/cards/7.2/introverted/1748021780283_card.png",
+        "name": "1748021780283_card.png"
+      }
+    },
+    "kinestetic": {
+      "1748021760467_card.png": {
+        "path": "/cards/7.2/kinestetic/1748021760467_card.png",
+        "name": "1748021760467_card.png"
+      },
+      "1748021762797_card.png": {
+        "path": "/cards/7.2/kinestetic/1748021762797_card.png",
+        "name": "1748021762797_card.png"
+      },
+      "1748021765040_card.png": {
+        "path": "/cards/7.2/kinestetic/1748021765040_card.png",
+        "name": "1748021765040_card.png"
+      },
+      "1748021767194_card.png": {
+        "path": "/cards/7.2/kinestetic/1748021767194_card.png",
+        "name": "1748021767194_card.png"
+      },
+      "1748021769238_card.png": {
+        "path": "/cards/7.2/kinestetic/1748021769238_card.png",
+        "name": "1748021769238_card.png"
+      }
+    },
+    "visual": {
+      "1748021735593_card.png": {
+        "path": "/cards/7.2/visual/1748021735593_card.png",
+        "name": "1748021735593_card.png"
+      },
+      "1748021738817_card.png": {
+        "path": "/cards/7.2/visual/1748021738817_card.png",
+        "name": "1748021738817_card.png"
+      },
+      "1748021741473_card.png": {
+        "path": "/cards/7.2/visual/1748021741473_card.png",
+        "name": "1748021741473_card.png"
+      },
+      "1748021743763_card.png": {
+        "path": "/cards/7.2/visual/1748021743763_card.png",
+        "name": "1748021743763_card.png"
+      },
+      "1748021745861_card.png": {
+        "path": "/cards/7.2/visual/1748021745861_card.png",
+        "name": "1748021745861_card.png"
+      }
+    }
+  },
+  "8.1": {
+    "auditory": {
+      "1748022297615_card.png": {
+        "path": "/cards/8.1/auditory/1748022297615_card.png",
+        "name": "1748022297615_card.png"
+      },
+      "1748022299951_card.png": {
+        "path": "/cards/8.1/auditory/1748022299951_card.png",
+        "name": "1748022299951_card.png"
+      },
+      "1748022302405_card.png": {
+        "path": "/cards/8.1/auditory/1748022302405_card.png",
+        "name": "1748022302405_card.png"
+      },
+      "1748022305288_card.png": {
+        "path": "/cards/8.1/auditory/1748022305288_card.png",
+        "name": "1748022305288_card.png"
+      },
+      "1748022307374_card.png": {
+        "path": "/cards/8.1/auditory/1748022307374_card.png",
+        "name": "1748022307374_card.png"
+      }
+    },
+    "extroverted": {
+      "1748022335637_card.png": {
+        "path": "/cards/8.1/extroverted/1748022335637_card.png",
+        "name": "1748022335637_card.png"
+      },
+      "1748022338100_card.png": {
+        "path": "/cards/8.1/extroverted/1748022338100_card.png",
+        "name": "1748022338100_card.png"
+      },
+      "1748022340646_card.png": {
+        "path": "/cards/8.1/extroverted/1748022340646_card.png",
+        "name": "1748022340646_card.png"
+      },
+      "1748022342986_card.png": {
+        "path": "/cards/8.1/extroverted/1748022342986_card.png",
+        "name": "1748022342986_card.png"
+      },
+      "1748022345887_card.png": {
+        "path": "/cards/8.1/extroverted/1748022345887_card.png",
+        "name": "1748022345887_card.png"
+      }
+    },
+    "introverted": {
+      "1748022323458_card.png": {
+        "path": "/cards/8.1/introverted/1748022323458_card.png",
+        "name": "1748022323458_card.png"
+      },
+      "1748022325796_card.png": {
+        "path": "/cards/8.1/introverted/1748022325796_card.png",
+        "name": "1748022325796_card.png"
+      },
+      "1748022328147_card.png": {
+        "path": "/cards/8.1/introverted/1748022328147_card.png",
+        "name": "1748022328147_card.png"
+      },
+      "1748022330850_card.png": {
+        "path": "/cards/8.1/introverted/1748022330850_card.png",
+        "name": "1748022330850_card.png"
+      },
+      "1748022333447_card.png": {
+        "path": "/cards/8.1/introverted/1748022333447_card.png",
+        "name": "1748022333447_card.png"
+      }
+    },
+    "kinestetic": {
+      "1748022309644_card.png": {
+        "path": "/cards/8.1/kinestetic/1748022309644_card.png",
+        "name": "1748022309644_card.png"
+      },
+      "1748022311998_card.png": {
+        "path": "/cards/8.1/kinestetic/1748022311998_card.png",
+        "name": "1748022311998_card.png"
+      },
+      "1748022314285_card.png": {
+        "path": "/cards/8.1/kinestetic/1748022314285_card.png",
+        "name": "1748022314285_card.png"
+      },
+      "1748022316682_card.png": {
+        "path": "/cards/8.1/kinestetic/1748022316682_card.png",
+        "name": "1748022316682_card.png"
+      },
+      "1748022320728_card.png": {
+        "path": "/cards/8.1/kinestetic/1748022320728_card.png",
+        "name": "1748022320728_card.png"
+      }
+    },
+    "visual": {
+      "1748022287863_card.png": {
+        "path": "/cards/8.1/visual/1748022287863_card.png",
+        "name": "1748022287863_card.png"
+      },
+      "1748022290322_card.png": {
+        "path": "/cards/8.1/visual/1748022290322_card.png",
+        "name": "1748022290322_card.png"
+      },
+      "1748022292745_card.png": {
+        "path": "/cards/8.1/visual/1748022292745_card.png",
+        "name": "1748022292745_card.png"
+      },
+      "1748022295230_card.png": {
+        "path": "/cards/8.1/visual/1748022295230_card.png",
+        "name": "1748022295230_card.png"
+      }
+    }
+  },
+  "8.2": {
+    "auditory": {
+      "1748022477740_card.png": {
+        "path": "/cards/8.2/auditory/1748022477740_card.png",
+        "name": "1748022477740_card.png"
+      },
+      "1748022479894_card.png": {
+        "path": "/cards/8.2/auditory/1748022479894_card.png",
+        "name": "1748022479894_card.png"
+      },
+      "1748022482256_card.png": {
+        "path": "/cards/8.2/auditory/1748022482256_card.png",
+        "name": "1748022482256_card.png"
+      },
+      "1748022484532_card.png": {
+        "path": "/cards/8.2/auditory/1748022484532_card.png",
+        "name": "1748022484532_card.png"
+      },
+      "1748022486688_card.png": {
+        "path": "/cards/8.2/auditory/1748022486688_card.png",
+        "name": "1748022486688_card.png"
+      }
+    },
+    "extroverted": {
+      "1748022513107_card.png": {
+        "path": "/cards/8.2/extroverted/1748022513107_card.png",
+        "name": "1748022513107_card.png"
+      },
+      "1748022515401_card.png": {
+        "path": "/cards/8.2/extroverted/1748022515401_card.png",
+        "name": "1748022515401_card.png"
+      },
+      "1748022517851_card.png": {
+        "path": "/cards/8.2/extroverted/1748022517851_card.png",
+        "name": "1748022517851_card.png"
+      },
+      "1748022520316_card.png": {
+        "path": "/cards/8.2/extroverted/1748022520316_card.png",
+        "name": "1748022520316_card.png"
+      },
+      "1748022523040_card.png": {
+        "path": "/cards/8.2/extroverted/1748022523040_card.png",
+        "name": "1748022523040_card.png"
+      }
+    },
+    "introverted": {
+      "1748022502111_card.png": {
+        "path": "/cards/8.2/introverted/1748022502111_card.png",
+        "name": "1748022502111_card.png"
+      },
+      "1748022504097_card.png": {
+        "path": "/cards/8.2/introverted/1748022504097_card.png",
+        "name": "1748022504097_card.png"
+      },
+      "1748022506414_card.png": {
+        "path": "/cards/8.2/introverted/1748022506414_card.png",
+        "name": "1748022506414_card.png"
+      },
+      "1748022508614_card.png": {
+        "path": "/cards/8.2/introverted/1748022508614_card.png",
+        "name": "1748022508614_card.png"
+      },
+      "1748022510857_card.png": {
+        "path": "/cards/8.2/introverted/1748022510857_card.png",
+        "name": "1748022510857_card.png"
+      }
+    },
+    "kinestetic": {
+      "1748022489647_card.png": {
+        "path": "/cards/8.2/kinestetic/1748022489647_card.png",
+        "name": "1748022489647_card.png"
+      },
+      "1748022494880_card.png": {
+        "path": "/cards/8.2/kinestetic/1748022494880_card.png",
+        "name": "1748022494880_card.png"
+      },
+      "1748022497277_card.png": {
+        "path": "/cards/8.2/kinestetic/1748022497277_card.png",
+        "name": "1748022497277_card.png"
+      },
+      "1748022499643_card.png": {
+        "path": "/cards/8.2/kinestetic/1748022499643_card.png",
+        "name": "1748022499643_card.png"
+      }
+    },
+    "visual": {
+      "1748022465495_card.png": {
+        "path": "/cards/8.2/visual/1748022465495_card.png",
+        "name": "1748022465495_card.png"
+      },
+      "1748022468242_card.png": {
+        "path": "/cards/8.2/visual/1748022468242_card.png",
+        "name": "1748022468242_card.png"
+      },
+      "1748022470839_card.png": {
+        "path": "/cards/8.2/visual/1748022470839_card.png",
+        "name": "1748022470839_card.png"
+      },
+      "1748022473055_card.png": {
+        "path": "/cards/8.2/visual/1748022473055_card.png",
+        "name": "1748022473055_card.png"
+      },
+      "1748022475448_card.png": {
+        "path": "/cards/8.2/visual/1748022475448_card.png",
+        "name": "1748022475448_card.png"
+      }
+    }
+  },
+  "9.1": {
+    "auditory": {
+      "1748022652695_card.png": {
+        "path": "/cards/9.1/auditory/1748022652695_card.png",
+        "name": "1748022652695_card.png"
+      },
+      "1748022656253_card.png": {
+        "path": "/cards/9.1/auditory/1748022656253_card.png",
+        "name": "1748022656253_card.png"
+      },
+      "1748022659334_card.png": {
+        "path": "/cards/9.1/auditory/1748022659334_card.png",
+        "name": "1748022659334_card.png"
+      },
+      "1748022661812_card.png": {
+        "path": "/cards/9.1/auditory/1748022661812_card.png",
+        "name": "1748022661812_card.png"
+      },
+      "1748022664866_card.png": {
+        "path": "/cards/9.1/auditory/1748022664866_card.png",
+        "name": "1748022664866_card.png"
+      }
+    },
+    "extroverted": {
+      "1748022705659_card.png": {
+        "path": "/cards/9.1/extroverted/1748022705659_card.png",
+        "name": "1748022705659_card.png"
+      },
+      "1748022708317_card.png": {
+        "path": "/cards/9.1/extroverted/1748022708317_card.png",
+        "name": "1748022708317_card.png"
+      },
+      "1748022713848_card.png": {
+        "path": "/cards/9.1/extroverted/1748022713848_card.png",
+        "name": "1748022713848_card.png"
+      },
+      "1748022716324_card.png": {
+        "path": "/cards/9.1/extroverted/1748022716324_card.png",
+        "name": "1748022716324_card.png"
+      },
+      "1748022723507_card.png": {
+        "path": "/cards/9.1/extroverted/1748022723507_card.png",
+        "name": "1748022723507_card.png"
+      }
+    },
+    "introverted": {
+      "1748022690563_card.png": {
+        "path": "/cards/9.1/introverted/1748022690563_card.png",
+        "name": "1748022690563_card.png"
+      },
+      "1748022692845_card.png": {
+        "path": "/cards/9.1/introverted/1748022692845_card.png",
+        "name": "1748022692845_card.png"
+      },
+      "1748022695266_card.png": {
+        "path": "/cards/9.1/introverted/1748022695266_card.png",
+        "name": "1748022695266_card.png"
+      },
+      "1748022697768_card.png": {
+        "path": "/cards/9.1/introverted/1748022697768_card.png",
+        "name": "1748022697768_card.png"
+      },
+      "1748022703387_card.png": {
+        "path": "/cards/9.1/introverted/1748022703387_card.png",
+        "name": "1748022703387_card.png"
+      }
+    },
+    "kinestetic": {
+      "1748022667261_card.png": {
+        "path": "/cards/9.1/kinestetic/1748022667261_card.png",
+        "name": "1748022667261_card.png"
+      },
+      "1748022669801_card.png": {
+        "path": "/cards/9.1/kinestetic/1748022669801_card.png",
+        "name": "1748022669801_card.png"
+      },
+      "1748022672631_card.png": {
+        "path": "/cards/9.1/kinestetic/1748022672631_card.png",
+        "name": "1748022672631_card.png"
+      },
+      "1748022674871_card.png": {
+        "path": "/cards/9.1/kinestetic/1748022674871_card.png",
+        "name": "1748022674871_card.png"
+      }
+    },
+    "visual": {
+      "1748022625409_card.png": {
+        "path": "/cards/9.1/visual/1748022625409_card.png",
+        "name": "1748022625409_card.png"
+      },
+      "1748022628622_card.png": {
+        "path": "/cards/9.1/visual/1748022628622_card.png",
+        "name": "1748022628622_card.png"
+      },
+      "1748022632979_card.png": {
+        "path": "/cards/9.1/visual/1748022632979_card.png",
+        "name": "1748022632979_card.png"
+      },
+      "1748022650284_card.png": {
+        "path": "/cards/9.1/visual/1748022650284_card.png",
+        "name": "1748022650284_card.png"
+      }
+    }
+  },
+  "9.2": {
+    "auditory": {
+      "1748022863765_card.png": {
+        "path": "/cards/9.2/auditory/1748022863765_card.png",
+        "name": "1748022863765_card.png"
+      },
+      "1748022868521_card.png": {
+        "path": "/cards/9.2/auditory/1748022868521_card.png",
+        "name": "1748022868521_card.png"
+      },
+      "1748022870984_card.png": {
+        "path": "/cards/9.2/auditory/1748022870984_card.png",
+        "name": "1748022870984_card.png"
+      },
+      "1748022873104_card.png": {
+        "path": "/cards/9.2/auditory/1748022873104_card.png",
+        "name": "1748022873104_card.png"
+      },
+      "1748022875598_card.png": {
+        "path": "/cards/9.2/auditory/1748022875598_card.png",
+        "name": "1748022875598_card.png"
+      }
+    },
+    "extroverted": {
+      "1748022906827_card.png": {
+        "path": "/cards/9.2/extroverted/1748022906827_card.png",
+        "name": "1748022906827_card.png"
+      },
+      "1748022909184_card.png": {
+        "path": "/cards/9.2/extroverted/1748022909184_card.png",
+        "name": "1748022909184_card.png"
+      },
+      "1748022912760_card.png": {
+        "path": "/cards/9.2/extroverted/1748022912760_card.png",
+        "name": "1748022912760_card.png"
+      },
+      "1748022915070_card.png": {
+        "path": "/cards/9.2/extroverted/1748022915070_card.png",
+        "name": "1748022915070_card.png"
+      },
+      "1748022918583_card.png": {
+        "path": "/cards/9.2/extroverted/1748022918583_card.png",
+        "name": "1748022918583_card.png"
+      }
+    },
+    "introverted": {
+      "1748022894410_card.png": {
+        "path": "/cards/9.2/introverted/1748022894410_card.png",
+        "name": "1748022894410_card.png"
+      },
+      "1748022896845_card.png": {
+        "path": "/cards/9.2/introverted/1748022896845_card.png",
+        "name": "1748022896845_card.png"
+      },
+      "1748022899276_card.png": {
+        "path": "/cards/9.2/introverted/1748022899276_card.png",
+        "name": "1748022899276_card.png"
+      },
+      "1748022902102_card.png": {
+        "path": "/cards/9.2/introverted/1748022902102_card.png",
+        "name": "1748022902102_card.png"
+      },
+      "1748022904343_card.png": {
+        "path": "/cards/9.2/introverted/1748022904343_card.png",
+        "name": "1748022904343_card.png"
+      }
+    },
+    "kinestetic": {
+      "1748022880715_card.png": {
+        "path": "/cards/9.2/kinestetic/1748022880715_card.png",
+        "name": "1748022880715_card.png"
+      },
+      "1748022883566_card.png": {
+        "path": "/cards/9.2/kinestetic/1748022883566_card.png",
+        "name": "1748022883566_card.png"
+      },
+      "1748022886234_card.png": {
+        "path": "/cards/9.2/kinestetic/1748022886234_card.png",
+        "name": "1748022886234_card.png"
+      },
+      "1748022888801_card.png": {
+        "path": "/cards/9.2/kinestetic/1748022888801_card.png",
+        "name": "1748022888801_card.png"
+      },
+      "1748022891737_card.png": {
+        "path": "/cards/9.2/kinestetic/1748022891737_card.png",
+        "name": "1748022891737_card.png"
+      }
+    },
+    "visual": {
+      "1748022850243_card.png": {
+        "path": "/cards/9.2/visual/1748022850243_card.png",
+        "name": "1748022850243_card.png"
+      },
+      "1748022853040_card.png": {
+        "path": "/cards/9.2/visual/1748022853040_card.png",
+        "name": "1748022853040_card.png"
+      },
+      "1748022856064_card.png": {
+        "path": "/cards/9.2/visual/1748022856064_card.png",
+        "name": "1748022856064_card.png"
+      },
+      "1748022861117_card.png": {
+        "path": "/cards/9.2/visual/1748022861117_card.png",
+        "name": "1748022861117_card.png"
+      }
+    }
+  }
+}

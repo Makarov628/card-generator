@@ -7,8 +7,7 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-cards
-downloads
+cards-json
 node_modules
 dist-ssr
 *.local
